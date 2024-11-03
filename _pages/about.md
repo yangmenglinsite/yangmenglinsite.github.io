@@ -32,7 +32,7 @@ social: true # includes social icons at the bottom of the page
 
 (3) Recommender systems, network sciences, and AI4SCI
 
-Feel free to reach out if you have anything you would like to discuss. Besides, I will join HKUSTGZ in 2025, information about PhD student recruitment can be found at the PDFs: [Chinese Version](./assets/bibliography/digailab_re.pdf), [English Version](./assets/bibliography/digailab_en.pdf).
+Feel free to reach out if you have anything you would like to discuss. Besides, I will join Thrust of Artificial Intelligence at[HKUSTGZ](https://www.hkust-gz.edu.cn/) in 2025, information about PhD student recruitment can be found at pages in [Chinese Version](https://mp.weixin.qq.com/s/mI-JI0RWRpxIy_S-YjitXw), or [English Version](./assets/bibliography/digailab_en.pdf).
 
 
 {: .info }
