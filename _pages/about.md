@@ -20,7 +20,10 @@ social: true # includes social icons at the bottom of the page
 
 ## About
 
-**Background**. I am currently a Postdoc at Yale University, working with [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/). Before that, I obtained my Ph.D. from The Chinese University of Hong Kong, supervised by [Prof. Irwin King](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en).
+**Background**. I am currently an assistant professor at Thrust of Artificial Intelligence at [HKUSTGZ](https://www.hkust-gz.edu.cn/). I was a Postdoc at Yale University, working with [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/). Before that, I obtained my Ph.D. from The Chinese University of Hong Kong, supervised by [Prof. Irwin King](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en).
+
+Information about PhD student recruitment can be found at pages in [Chinese Version](https://mp.weixin.qq.com/s/mI-JI0RWRpxIy_S-YjitXw), or [English Version](./assets/bibliography/digailab_en.pdf).
+
 
 **Research Interests**. My research is primarily focused on exploring the connection and alignment between the **learning space**, especially the hyperbolic space, and **the underlying geometries, structures, and patterns** in different types of data.
 
@@ -34,13 +37,10 @@ social: true # includes social icons at the bottom of the page
 
 Feel free to reach out `mlyang.yale[at]outlook.com` or `digailab[at]outlook.com` if you have anything you would like to discuss. 
 
-Besides, I will join Thrust of Artificial Intelligence at [HKUSTGZ](https://www.hkust-gz.edu.cn/) as an assistant professor in 2025. Information about PhD student recruitment can be found at pages in [Chinese Version](https://mp.weixin.qq.com/s/mI-JI0RWRpxIy_S-YjitXw), or [English Version](./assets/bibliography/digailab_en.pdf).
-
-
 {: .warning }
 > Call for Papers on non-Euclidean representation learning, geometric deep learning, and large foundation models, as well as web-related applications:
 > - [🔥 NEGEL workshop at TheWebConf 2025 (Click)](https://nefm4geoai.github.io/) 
-> - 2025-01-01: Paper submission deadline
+> - 2025-01-15: Paper submission deadline
 > - Submission site: https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL 
 > - Venue: International Convention & Exhibition Centre (ICC), Sydney, Australia 
 > - Timezone: Anywhere On Earth (UTC-12)
