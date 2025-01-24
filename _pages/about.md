@@ -37,19 +37,10 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 
 Feel free to reach out to `menglinyang[at]hkust-gz.edu.cn` or `digailab[at]outlook.com` if you have anything you would like to discuss. 
 
-{: .warning }
-> Call for Papers on non-Euclidean representation learning, geometric deep learning, and large foundation models, as well as web-related applications:
-> - [🔥 NEGEL workshop at TheWebConf 2025 (Click)](https://nefm4geoai.github.io/) 
-> - 2025-01-15: Paper submission deadline
-> - Submission site: https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL 
-> - Venue: International Convention & Exhibition Centre (ICC), Sydney, Australia 
-> - Timezone: Anywhere On Earth (UTC-12)
-
-
 
 {: .info }
 >New papers, blogs, and books on hyperbolic representation and deep learning topics are shared in the following slack channel and GitHub repo. Welcome to join and share more on this fascinating research: 
-> - [Hyperbolic Representation and Deep Learning Slack Channel (Click)](https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA) 
-> - [Awesome Hyperbolic Representation and Deep Learning GitHub Repository (Click)](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning)
+> - [[Slack Channel] Hyperbolic Representation and Deep Learning](https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA) 
+> - [[Github Repo] Awesome Hyperbolic Representation and Deep Learning GitHub Repository](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning)
 
 
