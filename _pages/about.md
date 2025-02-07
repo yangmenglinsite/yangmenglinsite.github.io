@@ -26,6 +26,7 @@ I was a Postdoc at Yale University, working with [Prof. Rex Ying](https://www.cs
 
 Information about PhD student recruitment can be found on pages in [Chinese Version](https://mp.weixin.qq.com/s/mI-JI0RWRpxIy_S-YjitXw), or [English Version](./assets/bibliography/digailab_en.pdf).
 
+**If you represent a company and seek collaboration**, kindly e-mail me.
 
 **Research Interests**. My research is primarily focused on exploring the connection and alignment between the **learning space**, especially the hyperbolic space, and **the underlying geometries, structures, and patterns** in different types of data.
 
