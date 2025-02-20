@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 ## About
 
 **Background**. I am currently an assistant professor at Thrust of Artificial Intelligence at [HKUSTGZ](https://www.hkust-gz.edu.cn/). 
-I am also an Affiliated Assistant Professor of the department of Computer Science & Engineering at The Hong Kong University of Science and Technology, Hong Kong. 
+I am also an Affiliated Assistant Professor at The Hong Kong University of Science and Technology, Hong Kong. 
 I was a Postdoc at Yale University, working with [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/). Before that, I obtained my Ph.D. from The Chinese University of Hong Kong, supervised by [Prof. Irwin King (IEEE & ACM Fellow)](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en).
 
 Information about PhD student recruitment can be found on pages in [Chinese Version](https://mp.weixin.qq.com/s/mI-JI0RWRpxIy_S-YjitXw), or [English Version](./assets/bibliography/digailab_en.pdf).
