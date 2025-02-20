@@ -32,13 +32,13 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 
 **Recently, I have been working on the following topics:**
 
-(1) Hyperbolic representation learning, curvature adaptive learning, differential geometry
+(1) Large Language Models, multi-modality foundation models, non-Euclidean space for foundation models
 
-(2) Foundation models, generative model, alignment across multi-source data, non-Euclidean space for foundation models
+(2) Hyperbolic representation learning, curvature adaptive learning, differential geometry
 
-(3) Recommender systems, network sciences, and AI4SCI
+(3) Recommender systems, and AI4SCI
 
-Feel free to reach out to `menglinyang[at]hkust-gz.edu.cn` or `digailab[at]outlook.com` if you have anything you would like to discuss. 
+Feel free to reach out to `menglin.yang[at]outlook.com` or `digailab[at]outlook.com` if you have anything you would like to discuss. 
 
 
 {: .info }
