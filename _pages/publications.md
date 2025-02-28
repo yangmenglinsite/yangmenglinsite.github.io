@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Most papers can be found in Google Scholar.
+description: Full paper list can be found in Google Scholar. (*) denotes corresponding author.
 nav: true
 nav_order: 1
 ---
