@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Full paper list can be found in [Google Scholar](https://scholar.google.com/citations?user=KroqSRUAAAAJ&hl). (*) denotes corresponding author.
+description: Full paper list can be found in Google Scholar. (*) denotes corresponding author.
 nav: true
 nav_order: 1
 ---
