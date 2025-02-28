@@ -90,13 +90,18 @@
     {%- if author_is_self -%}
       <em>{{- author.first }} {{ author_last_html -}}</em>
     {%- else -%}
-      {%- if author.first == "Menglin" and author.last == "Yang" -%}<strong>{%- endif -%}
-      {%- if coauthor_url -%}
-        <a href="{{ coauthor_url }}">{{- author.first }} {{ author_last_html -}}</a>
-      {%- else -%}
-        {{- author.first }} {{ author_last_html -}}
+      {%- if author.first == "Menglin" and (author.last == "Yang" or author.last contains "Yang") -%}
+        <strong>
       {%- endif -%}
-      {%- if author.first == "Menglin" and author.last == "Yang" -%}</strong>{%- endif -%}
+        {%- if coauthor_url -%}
+          <a href="{{ coauthor_url }}">{{- author.first }} {{ author_last_html -}}</a>
+        {%- else -%}
+          {{- author.first }} {{ author_last_html -}}
+        {%- endif -%}
+      {%- if author.first == "Menglin" and (author.last == "Yang" or author.last contains "Yang") -%}
+        </strong>
+{%- endif -%}
+
     {%- endif -%}
   {%- endfor -%}
 </div>
