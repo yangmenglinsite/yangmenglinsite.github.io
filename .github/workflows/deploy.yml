@@ -82,7 +82,9 @@ jobs:
       - name: Install and Build 🔧
         run: |
           sudo apt-get update
-          sudo apt-get install -y imagemagick
+          sudo apt-get install -y imagemagick libmagickwand-dev
+          sudo ln -s /usr/bin/convert /usr/local/bin/convert
+          sudo ln -s /usr/bin/identify /usr/local/bin/identify
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll build
