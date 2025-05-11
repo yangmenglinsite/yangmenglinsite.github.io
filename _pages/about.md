@@ -42,6 +42,9 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 
 Feel free to reach out to `menglin.yang[at]outlook.com` or `digailab[at]outlook.com` if you have anything you would like to discuss. 
 
+{: .warning style="color: red;" }
+> **Warning**: My original homepage was attacked and please save this site if you want to track my updates, thanks.
+
 
 {: .info }
 >New papers, blogs, and books on hyperbolic representation and deep learning topics are shared in the following slack channel and GitHub repo. Welcome to join and share more on this fascinating research: 
