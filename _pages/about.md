@@ -32,13 +32,13 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 
 **Recently, I have been working on the following topics:**
 
-(1) Large Language Models, Multi-modal Foundation Models, and Non-Euclidean Geometries for Foundation Models
+(1) Multi-modal LLMs & LLMs(Peft, RAG, Agent, RL) and non-Euclidean LLMs
 
-(2) Hyperbolic Representation && Deep learning, Graph and Geometric learning, and GraphRAG
+(2) Hyperbolic Representation Learning, Differential Geometry, and Hierarchical Modeling
 
-(3) Recommender Systems and Network Science
+(3) Recommender Systems, Personalization, Knowledge graph, and Network sciences
 
-(4) AI4SCI(including biomed and material science)
+(4) LLM4SCI
 
 Feel free to reach out to `menglin.yang[at]outlook.com` or `digailab[at]outlook.com` if you have anything you would like to discuss. 
 
