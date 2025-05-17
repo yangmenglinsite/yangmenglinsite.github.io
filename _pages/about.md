@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor @ HKUST(GZ) / HKUST
+subtitle: Assistant Professor @ HKUST(GZ)
 
 profile:
   align: right
