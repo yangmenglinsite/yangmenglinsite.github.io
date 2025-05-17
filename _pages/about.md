@@ -45,7 +45,7 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
  
 
 {: .warning style="color: red;" }
-> I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
+> I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
 `menglin.yang[at]outlook.com` or `digailab[at]outlook.com`
 
 
