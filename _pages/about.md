@@ -38,7 +38,7 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 
 (3) Recommender Systems, Personalization, Knowledge graph, and Network sciences
 
-(4) LLM4SCI
+(4) Graph Learning and LLM4SCI
 
 
 
