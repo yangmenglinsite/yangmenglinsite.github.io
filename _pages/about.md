@@ -40,10 +40,13 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 
 (4) LLM4SCI
 
-Feel free to reach out to `menglin.yang[at]outlook.com` or `digailab[at]outlook.com` if you have anything you would like to discuss. 
+
+
+ 
 
 {: .warning style="color: red;" }
-> **Warning**: My original homepage was attacked and please save this site if you want to track my updates, thanks.
+> I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
+`menglin.yang[at]outlook.com` or `digailab[at]outlook.com`
 
 
 {: .info }
