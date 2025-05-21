@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 ## About
 
-**Background**. I am currently an assistant professor at Thrust of Artificial Intelligence at [Hong Kong University of Science and Technology (Guangzhou), HKUSTGZ](https://www.hkust-gz.edu.cn/). 
+**Background**. I am currently an assistant professor at Thrust of Artificial Intelligence at [Hong Kong University of Science and Technology (Guangzhou), HKUSTGZ](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YANG-Menglin/menglinyang). 
 I am also an Affiliated Assistant Professor at The Hong Kong University of Science and Technology (HKUST), Hong Kong. 
 I was a Postdoc at Yale University, working with [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/). Before that, I obtained my Ph.D. from The Chinese University of Hong Kong, supervised by [Prof. Irwin King (IEEE & ACM Fellow)](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en).
 
