@@ -51,8 +51,8 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 
 {: .info }
 >New papers, blogs, and books on hyperbolic representation and deep learning topics are shared in the following slack channel and GitHub repo. Welcome to join and share more on this fascinating research: 
-> - [[Slack Channel] Hyperbolic Representation and Deep Learning](https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA) 
-> - [[Github Repo] Awesome Hyperbolic Representation and Deep Learning GitHub Repository](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning)
-> - [Hyperbolic Deep Learning in the Age of LLMs](https://hyperboliclearning.github.io/)
+> - [Slack Channel: Hyperbolic Representation and Deep Learning](https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA) 
+> - [Github Repo: Awesome Hyperbolic Representation and Deep Learning GitHub Repository](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning)
+> - [Hyperbolic Learning Website: Hyperbolic Deep Learning in the Age of LLMs](https://hyperboliclearning.github.io/)
 
 
