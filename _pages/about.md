@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor @ HKUST(GZ)
+subtitle: Assistant Professor@HKUST(GZ) | Postdoc@Yale University | PhD@CUHK
 
 profile:
   align: right
@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 **Background**. I am currently an assistant professor at Thrust of Artificial Intelligence at [Hong Kong University of Science and Technology (Guangzhou), HKUSTGZ](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YANG-Menglin/menglinyang). 
 I am also an Affiliated Assistant Professor at The Hong Kong University of Science and Technology (HKUST), Hong Kong. 
-I was a Postdoc at Yale University, working with [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/). Before that, I obtained my Ph.D. from The Chinese University of Hong Kong, supervised by [Prof. Irwin King (IEEE & ACM Fellow)](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en).
+I was a Postdoc Research at [Yale University](https://graph-and-geometric-learning.github.io/), working with [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/). Before that, I obtained my Ph.D. from [The Chinese University of Hong Kong](https://misc-lab.cse.cuhk.edu.hk/), supervised by [Prof. Irwin King (IEEE & ACM Fellow)](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en).
 
 Information about PhD student recruitment can be found on pages in [Chinese Version](https://mp.weixin.qq.com/s/mI-JI0RWRpxIy_S-YjitXw), or [English Version](./assets/bibliography/digailab_en.pdf).
 
@@ -45,12 +45,12 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
  
 
 {: .warning style="color: red;" }
-> I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
+> 🔥 I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
 `menglin.yang[at]outlook.com` or `digailab[at]outlook.com`
 
 
 {: .info }
->New papers, blogs, and books on hyperbolic representation and deep learning topics are shared in the following slack channel and GitHub repo. Welcome to join and share more on this fascinating research: 
+> 🌊 New papers, blogs, and books on hyperbolic representation and deep learning topics are shared in the following slack channel and GitHub repo. Welcome to join and share more on this fascinating research: 
 > - [Slack Channel: Hyperbolic Representation and Deep Learning](https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA) 
 > - [Github Repo: Awesome Hyperbolic Representation and Deep Learning GitHub Repository](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning)
 > - [Hyperbolic Learning Website: Hyperbolic Deep Learning in the Age of LLMs](https://hyperboliclearning.github.io/)
