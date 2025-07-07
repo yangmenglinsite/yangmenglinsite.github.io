@@ -359,8 +359,10 @@ ul.task-list input[type="checkbox"] {
   .navbar-logo {
     height: 40px;
     width: auto;
+    max-width: 200px;
     margin-right: 10px;
     transition: opacity 0.2s ease-in-out;
+    object-fit: contain;
     
     &:hover {
       opacity: 0.8;
