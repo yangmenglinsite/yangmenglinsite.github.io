@@ -2,6 +2,11 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
+      <!-- Logo -->
+      <a class="navbar-brand" href="https://www.hkust-gz.edu.cn/">
+        <img src="{{ '/assets/img/logo.svg' | relative_url }}" alt="{{ site.title }}" class="navbar-logo">
+      </a>
+      
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if site.title == 'blank' %}

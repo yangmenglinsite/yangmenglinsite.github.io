@@ -355,6 +355,17 @@ ul.task-list input[type="checkbox"] {
       }
     }
   }
+
+  .navbar-logo {
+    height: 40px;
+    width: auto;
+    margin-right: 10px;
+    transition: opacity 0.2s ease-in-out;
+    
+    &:hover {
+      opacity: 0.8;
+    }
+  }
 }
 
 .navbar-toggler {
