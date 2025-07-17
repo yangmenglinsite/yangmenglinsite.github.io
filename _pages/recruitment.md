@@ -41,7 +41,7 @@ nav_order: 2
     max-width: none !important;
 }
 
-/* Simple approach - use flexbox to center content */
+/* Center all content consistently */
 .post {
     display: flex !important;
     flex-direction: column !important;
@@ -52,18 +52,33 @@ nav_order: 2
 .post-header {
     width: 900px !important;
     max-width: 900px !important;
-    margin-left: 280px !important;
-    margin-right: auto !important;
+    margin-left: calc(50vw - 450px + 140px) !important;
+    margin-right: calc(50vw - 450px - 140px) !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
 }
 
-/* On wide screens, center the content properly */
-@media (min-width: 1400px) {
+/* Align header and footer with main content */
+header .container,
+footer .container {
+    margin-left: calc(50vw - 450px + 140px) !important;
+    margin-right: calc(50vw - 450px - 140px) !important;
+    max-width: 900px !important;
+}
+
+/* Handle smaller desktop screens */
+@media (max-width: 1399px) {
     .post article,
     .post-header {
-        margin-left: calc(50vw - 450px + 140px) !important;
-        margin-right: calc(50vw - 450px - 140px) !important;
+        margin-left: 280px !important;
+        margin-right: auto !important;
+    }
+    
+    header .container,
+    footer .container {
+        margin-left: 280px !important;
+        margin-right: auto !important;
+        max-width: 900px !important;
     }
 }
 
