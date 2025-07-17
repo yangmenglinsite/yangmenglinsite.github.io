@@ -51,6 +51,14 @@ nav_order: 4
 .post {
     max-width: none !important;
 }
+@media (min-width: 1221px) {
+    .post article, .post-header {
+        margin-left: calc(280px + (100vw - 280px - 900px) / 2) !important;
+        margin-right: calc((100vw - 280px - 900px) / 2) !important;
+        max-width: 900px !important;
+        width: 900px !important;
+    }
+}
 @media (max-width: 1220px) {
     .post article, .post-header {
         margin-left: 280px !important;
