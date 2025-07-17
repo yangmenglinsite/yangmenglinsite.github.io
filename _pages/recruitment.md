@@ -4,8 +4,24 @@ title: Recruitment
 permalink: /recruitment/
 subtitle: update date 2025-07-17
 nav: true
-nav_order: 3
+nav_order: 2
 ---
+
+<style>
+@media (max-width: 768px) {
+  div[style*="position: fixed"] {
+    display: none !important;
+  }
+  .post article img, article img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+}
+.post article img, article img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
 
 <div style="text-align: left; margin-bottom: 20px;">
 <strong>Language:</strong> 

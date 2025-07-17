@@ -7,6 +7,22 @@ nav: false
 nav_order: 2
 ---
 
+<style>
+@media (max-width: 768px) {
+  div[style*="position: fixed"] {
+    display: none !important;
+  }
+  .post article img, article img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+}
+.post article img, article img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
+
 <div style="text-align: left; margin-bottom: 20px;">
 <strong>Language:</strong> 
 <a href="/recruitment/" style="color: #0066cc;">中文</a> | 
