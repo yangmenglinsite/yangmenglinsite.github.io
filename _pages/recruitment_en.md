@@ -41,31 +41,36 @@ nav_order: 4
     max-width: none !important;
 }
 
-/* Force content centering with higher specificity */
-body .container .post article,
-body .container .post-header {
-    margin: 0 auto !important;
-    margin-left: calc(280px + (100vw - 280px - 900px) / 2) !important;
-    margin-right: calc((100vw - 280px - 900px) / 2) !important;
-    max-width: 900px !important;
+/* Simple approach - use flexbox to center content */
+.post {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+}
+
+.post article,
+.post-header {
     width: 900px !important;
+    max-width: 900px !important;
+    margin-left: 280px !important;
+    margin-right: auto !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
 }
 
-/* Ensure calculations work properly on wide screens */
-@media screen and (min-width: 1221px) {
-    body .container .post article,
-    body .container .post-header {
-        margin-left: calc(280px + (100vw - 280px - 900px) / 2) !important;
-        margin-right: calc((100vw - 280px - 900px) / 2) !important;
+/* On wide screens, center the content properly */
+@media (min-width: 1400px) {
+    .post article,
+    .post-header {
+        margin-left: calc(50vw - 450px + 140px) !important;
+        margin-right: calc(50vw - 450px - 140px) !important;
     }
 }
 
 /* Medium screens - content starts after TOC */
-@media screen and (max-width: 1220px) {
-    body .container .post article,
-    body .container .post-header {
+@media (max-width: 1220px) {
+    .post article,
+    .post-header {
         margin-left: 280px !important;
         margin-right: 40px !important;
         max-width: calc(100vw - 320px) !important;
@@ -74,16 +79,23 @@ body .container .post-header {
 }
 
 /* Small screens - hide TOC and center content */
-@media screen and (max-width: 768px) {
-    body .container .post article,
-    body .container .post-header {
+@media (max-width: 768px) {
+    .post article,
+    .post-header {
         margin-left: 20px !important;
         margin-right: 20px !important;
         max-width: calc(100vw - 40px) !important;
         width: calc(100vw - 40px) !important;
     }
-    .toc-fixed {
+    /* Hide table of contents on mobile */
+    div[style*="position: fixed"] {
         display: none !important;
+    }
+    /* Scale images proportionally on mobile */
+    .post article img {
+        max-width: 100% !important;
+        height: auto !important;
+        width: auto !important;
     }
 }
 
