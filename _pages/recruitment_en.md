@@ -77,7 +77,7 @@ We welcome students interested in foundation models, representation learning, no
 
 ---
 
-### Direction 2: Personalizatopm Recommendation Systems
+### Direction 2: Personalization and Recommendation Systems
 
 This research integrates knowledge graphs, personal data, and geometric modeling to build next-generation recommendation systems and personalized analysis frameworks. We address key challenges in personalized LLM applications, including hallucination problems, recommendation accuracy, social network dynamics, and group behavior prediction.
 
@@ -168,4 +168,4 @@ Email subject format: Position Applied + Your Name + Degree + Graduation Univers
 
 We will conduct preliminary screening and arrange interviews upon receipt of materials.
 
-Official application portal: https://fytgs.hkust-gz.edu.cn/
+Official application portal: [https://fytgs.hkust-gz.edu.cn/](https://fytgs.hkust-gz.edu.cn/)
