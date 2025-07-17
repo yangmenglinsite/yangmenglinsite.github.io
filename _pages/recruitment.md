@@ -33,42 +33,50 @@ nav_order: 2
 
 <!-- Add CSS to create left margin for main content -->
 <style>
-.post article {
-    margin-left: calc(280px + (100vw - 280px - 900px) / 2) !important;
-    margin-right: calc((100vw - 280px - 900px) / 2) !important;
-    max-width: 900px !important;
-    width: 900px !important;
-}
-.post-header {
-    margin-left: calc(280px + (100vw - 280px - 900px) / 2) !important;
-    margin-right: calc((100vw - 280px - 900px) / 2) !important;
-    max-width: 900px !important;
-    width: 900px !important;
-}
+/* Reset theme defaults */
 .container {
     max-width: none !important;
 }
 .post {
     max-width: none !important;
 }
-@media (min-width: 1221px) {
-    .post article, .post-header {
+
+/* Force content centering with higher specificity */
+body .container .post article,
+body .container .post-header {
+    margin: 0 auto !important;
+    margin-left: calc(280px + (100vw - 280px - 900px) / 2) !important;
+    margin-right: calc((100vw - 280px - 900px) / 2) !important;
+    max-width: 900px !important;
+    width: 900px !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+/* Ensure calculations work properly on wide screens */
+@media screen and (min-width: 1221px) {
+    body .container .post article,
+    body .container .post-header {
         margin-left: calc(280px + (100vw - 280px - 900px) / 2) !important;
         margin-right: calc((100vw - 280px - 900px) / 2) !important;
-        max-width: 900px !important;
-        width: 900px !important;
     }
 }
-@media (max-width: 1220px) {
-    .post article, .post-header {
+
+/* Medium screens - content starts after TOC */
+@media screen and (max-width: 1220px) {
+    body .container .post article,
+    body .container .post-header {
         margin-left: 280px !important;
         margin-right: 40px !important;
         max-width: calc(100vw - 320px) !important;
         width: calc(100vw - 320px) !important;
     }
 }
-@media (max-width: 768px) {
-    .post article, .post-header {
+
+/* Small screens - hide TOC and center content */
+@media screen and (max-width: 768px) {
+    body .container .post article,
+    body .container .post-header {
         margin-left: 20px !important;
         margin-right: 20px !important;
         max-width: calc(100vw - 40px) !important;
