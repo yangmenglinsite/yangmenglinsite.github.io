@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Full paper list can be found in Google Scholar. (*) denotes corresponding author.
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 <!-- _pages/publications.md -->

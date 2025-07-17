@@ -2,9 +2,9 @@
 layout: page
 title: "Recruitment (EN)"
 permalink: /recruitment_en/
-description: "Updated: 2025-07-17"
+subtitle: update date 2025-07-17
 nav: false
-nav_order: 4
+nav_order: 2
 ---
 
 <div style="text-align: left; margin-bottom: 20px;">
@@ -31,117 +31,9 @@ nav_order: 4
 </ul>
 </div>
 
-<!-- Add CSS to create left margin for main content -->
-<style>
-/* Reset theme defaults */
-.container {
-    max-width: none !important;
-}
-.post {
-    max-width: none !important;
-}
-
-/* Center all content consistently */
-.post {
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: center !important;
-}
-
-.post article,
-.post-header {
-    width: 900px !important;
-    max-width: 900px !important;
-    margin-left: calc(50vw - 450px + 140px) !important;
-    margin-right: calc(50vw - 450px - 140px) !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-}
-
-/* Align header and footer with main content */
-header .container,
-footer .container {
-    margin-left: calc(50vw - 450px + 140px) !important;
-    margin-right: calc(50vw - 450px - 140px) !important;
-    max-width: 900px !important;
-}
-
-/* Handle smaller desktop screens */
-@media (max-width: 1399px) {
-    .post article,
-    .post-header {
-        margin-left: 280px !important;
-        margin-right: auto !important;
-    }
-    
-    header .container,
-    footer .container {
-        margin-left: 280px !important;
-        margin-right: auto !important;
-        max-width: 900px !important;
-    }
-}
-
-/* Medium screens - content starts after TOC */
-@media (max-width: 1220px) {
-    .post article,
-    .post-header {
-        margin-left: 280px !important;
-        margin-right: 40px !important;
-        max-width: calc(100vw - 320px) !important;
-        width: calc(100vw - 320px) !important;
-    }
-}
-
-/* Small screens - hide TOC and center content */
-@media (max-width: 768px) {
-    .post article,
-    .post-header {
-        margin-left: 20px !important;
-        margin-right: 20px !important;
-        max-width: calc(100vw - 40px) !important;
-        width: calc(100vw - 40px) !important;
-    }
-    /* Hide table of contents on mobile */
-    div[style*="position: fixed"] {
-        display: none !important;
-    }
-    /* Scale images proportionally on mobile */
-    .post article img {
-        max-width: 100% !important;
-        height: auto !important;
-        width: auto !important;
-    }
-}
-
-/* Center the earth globe widget on recruitment pages */
-div[style*="text-align: center"] {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    margin-left: calc(280px + (100vw - 280px - 900px) / 2) !important;
-    margin-right: calc((100vw - 280px - 900px) / 2) !important;
-    max-width: 900px !important;
-}
-
-@media (max-width: 1220px) {
-    div[style*="text-align: center"] {
-        margin-left: 280px !important;
-        margin-right: 40px !important;
-        max-width: calc(100vw - 320px) !important;
-    }
-}
-
-@media (max-width: 768px) {
-    div[style*="text-align: center"] {
-        margin-left: 20px !important;
-        margin-right: 20px !important;
-        max-width: calc(100vw - 40px) !important;
-    }
-}
-</style>
-
 # HKUST(GZ) DIGAI Lab Recruitment
+
+Update: 2025-07-17
 
 The Data Intelligence and Geometric AI Laboratory (DIGAI Lab) at HKUST(GZ) is actively seeking passionate students to join our cutting-edge AI research team. We offer opportunities for PhD studies and remote visiting research positions. Our research spans representation learning, LLMs, geometric learning, and information retrieval, with a focus on advancing geometric AI theory and its applications in network science and scientific discovery. We welcome students from diverse backgrounds and provide extensive research resources and international collaboration opportunities.
 

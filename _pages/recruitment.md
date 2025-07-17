@@ -2,9 +2,9 @@
 layout: page
 title: Recruitment
 permalink: /recruitment/
-description: 更新时间:2025-07-17
+subtitle: update date 2025-07-17
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <div style="text-align: left; margin-bottom: 20px;">
@@ -31,118 +31,10 @@ nav_order: 2
 </ul>
 </div>
 
-<!-- Add CSS to create left margin for main content -->
-<style>
-/* Reset theme defaults */
-.container {
-    max-width: none !important;
-}
-.post {
-    max-width: none !important;
-}
-
-/* Center all content consistently */
-.post {
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: center !important;
-}
-
-.post article,
-.post-header {
-    width: 900px !important;
-    max-width: 900px !important;
-    margin-left: calc(50vw - 450px + 140px) !important;
-    margin-right: calc(50vw - 450px - 140px) !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-}
-
-/* Align header and footer with main content */
-header .container,
-footer .container {
-    margin-left: calc(50vw - 450px + 140px) !important;
-    margin-right: calc(50vw - 450px - 140px) !important;
-    max-width: 900px !important;
-}
-
-/* Handle smaller desktop screens */
-@media (max-width: 1399px) {
-    .post article,
-    .post-header {
-        margin-left: 280px !important;
-        margin-right: auto !important;
-    }
-    
-    header .container,
-    footer .container {
-        margin-left: 280px !important;
-        margin-right: auto !important;
-        max-width: 900px !important;
-    }
-}
-
-/* Medium screens - content starts after TOC */
-@media (max-width: 1220px) {
-    .post article,
-    .post-header {
-        margin-left: 280px !important;
-        margin-right: 40px !important;
-        max-width: calc(100vw - 320px) !important;
-        width: calc(100vw - 320px) !important;
-    }
-}
-
-/* Small screens - hide TOC and center content */
-@media (max-width: 768px) {
-    .post article,
-    .post-header {
-        margin-left: 20px !important;
-        margin-right: 20px !important;
-        max-width: calc(100vw - 40px) !important;
-        width: calc(100vw - 40px) !important;
-    }
-    /* Hide table of contents on mobile */
-    div[style*="position: fixed"] {
-        display: none !important;
-    }
-    /* Scale images proportionally on mobile */
-    .post article img {
-        max-width: 100% !important;
-        height: auto !important;
-        width: auto !important;
-    }
-}
-
-/* Center the earth globe widget on recruitment pages */
-div[style*="text-align: center"] {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    margin-left: calc(280px + (100vw - 280px - 900px) / 2) !important;
-    margin-right: calc((100vw - 280px - 900px) / 2) !important;
-    max-width: 900px !important;
-}
-
-@media (max-width: 1220px) {
-    div[style*="text-align: center"] {
-        margin-left: 280px !important;
-        margin-right: 40px !important;
-        max-width: calc(100vw - 320px) !important;
-    }
-}
-
-@media (max-width: 768px) {
-    div[style*="text-align: center"] {
-        margin-left: 20px !important;
-        margin-right: 20px !important;
-        max-width: calc(100vw - 40px) !important;
-    }
-}
-</style>
-
 # 香港科技大学（广州）DIGAI Lab博士/硕士/本科生招生详情
 
+
+Update: 2025-07-17
 
 香港科技大学（广州）数据智能与几何人工智能实验室（DIGAI Lab) 诚邀有志于AI前沿研究的优秀学子加入，攻读博士学位或进行（远程）访问的博、硕、本科生。实验室专注于表示学习、大模型、几何拓扑、信息检索，致力于推动几何与人工智能的理论发展，以及几何与人工智能在网络科学、科学发现领域的应用。欢迎具有不同学科背景的学生共同探索前沿领域，并提供丰富的科研资源与国际合作机会。
 
