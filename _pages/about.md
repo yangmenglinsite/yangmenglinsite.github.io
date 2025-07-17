@@ -24,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 I am also an Affiliated Assistant Professor at The Hong Kong University of Science and Technology (HKUST), Hong Kong. 
 I was a Postdoc Research at [Yale University](https://graph-and-geometric-learning.github.io/), working with [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/). Before that, I obtained my Ph.D. from [The Chinese University of Hong Kong](https://misc-lab.cse.cuhk.edu.hk/), supervised by [Prof. Irwin King (IEEE & ACM Fellow)](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en).
 
-Information about PhD student recruitment can be found on pages in [Chinese Version](https://mp.weixin.qq.com/s/mI-JI0RWRpxIy_S-YjitXw), or [English Version](./assets/bibliography/digailab_en.pdf).
+Information about PhD student recruitment can be found on pages in [Chinese Version](./recruitment/), or [English Version](./recruitment_en/).
 
 **If you represent a company and seek collaboration**, kindly e-mail me.
 
@@ -32,7 +32,7 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 
 **Recently, I have been working on the following topics:**
 
-(1) Multi-modal LLMs & LLMs(Peft, RAG, Agent, RL) and non-Euclidean LLMs
+(1) Multi-modal LLMs & LLMs(Reasoning, Peft, RAG) and non-Euclidean LLMs
 
 (2) Hyperbolic Representation Learning, Differential Geometry, and Hierarchical Modeling
 
