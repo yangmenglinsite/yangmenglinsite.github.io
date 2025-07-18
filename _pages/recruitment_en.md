@@ -111,14 +111,22 @@ We welcome researchers interested in computational biology, bioinformatics, medi
 
 HKUST(GZ) is the first legally independent mainland-Hong Kong cooperative educational institution established under the Greater Bay Area development framework. Officially established in June 2022 with approval from China's Ministry of Education, HKUST(GZ) focuses on interdisciplinary innovation and exploring new talent cultivation models. We aim to become a paradigm for integrated educational development and an internationally renowned university that cultivates innovative talents for the future.
 
+<div align="center" style="margin: 40px 0;">
+<img src="/assets/img/digai/bridge.png" alt="HKUST(GZ) Bridge" style="max-width: 1000px; height: auto;">
+</div>
+
 HKUST(GZ) awards master's and doctoral degrees from The Hong Kong University of Science and Technology. As of September 2024, we have over 300 academic staff, including 240+ tenured faculty. All faculty hold doctoral degrees, 98% have international experience, nearly 20% are national-level talent program recipients, nearly 50% are provincial/ministerial-level talent program selectees, and 15% are ranked among the global top 2% scientists.
 
 Since establishment, HKUST(GZ) has been approved for 3 Guangdong Provincial Key Laboratories and 11 Guangzhou Municipal Key Laboratories. We have secured over 300 government-funded research projects, including 66 national-level projects and participation in 18 national key and major projects.
 
+<div align="center" style="margin: 40px 0;">
+<img src="/assets/img/digai/campus.png" alt="HKUST(GZ) Campus" style="max-width: 1000px; height: auto;">
+</div>
+
 The university has signed cooperation agreements with over 90 leading enterprises and research institutions, including Alibaba Cloud, GTA Semiconductor, and Shenzhen Bay Laboratory. We have established joint laboratories with nearly 10 industry leaders, supported over 100 entrepreneurship incubation projects, and registered 40+ enterprises. The HKUST(GZ) Innovation Zone is under construction. We have established a 1 billion yuan technology transfer fund with Guangzhou Industrial Investment Group, with total fund partnerships reaching 2.4 billion yuan.
 
 <div align="center" style="margin: 40px 0;">
-<img src="/assets/img/digai/hkustgz.webp" alt="HKUST(GZ) Logo" style="max-width: 900px; height: auto;">
+<img src="/assets/img/digai/hkustgz.webp" alt="HKUST(GZ) Logo" style="max-width: 1000px; height: auto;">
 </div>
 
 ---
