@@ -18,8 +18,67 @@ nav_order: 3
   }
 }
 .post article img, article img {
-  max-width: 100%;
+  max-width: 900px;
   height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Balanced and justified text layout */
+.post article p {
+  text-align: justify !important;
+  text-justify: inter-word;
+  line-height: 1.8;
+  margin-bottom: 1.2em;
+}
+
+.post article ul {
+  text-align: justify;
+  line-height: 1.8;
+}
+
+.post article li {
+  margin-bottom: 0.8em;
+  text-align: justify;
+}
+
+.post article h1 {
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.post article h2, .post article h3, .post article h4 {
+  text-align: left;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.post article blockquote {
+  text-align: justify;
+  line-height: 1.8;
+  margin: 1.5em 0;
+  padding: 1em;
+  border-left: 4px solid #0066cc;
+  background-color: #f8f9fa;
+}
+
+/* Page content container */
+.post {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .post {
+    padding: 0 15px;
+  }
+  
+  .post article p, .post article ul, .post article li {
+    text-align: left;
+  }
 }
 </style>
 
@@ -55,7 +114,7 @@ Update: 2025-07-17
 香港科技大学（广州）数据智能与几何人工智能实验室（DIGAI Lab) 诚邀有志于AI前沿研究的优秀学子加入，攻读博士学位或进行（远程）访问研究。实验室专注于表示学习、大模型、几何拓扑、信息检索，致力于推动几何与人工智能的理论发展，以及其在网络科学、科学发现领域的应用。欢迎具有不同学科背景的同学共同探索前沿领域，并提供丰富的科研资源与国际合作机会。
 
 <div align="center" style="margin: 20px 0;">
-<img src="/assets/img/digai/lab_logo.webp" alt="DIGAI Lab Logo" style="max-width: 1000px; height: auto;">
+<img src="/assets/img/digai/lab_logo.webp" alt="DIGAI Lab Logo" style="max-width: 900px; height: auto;">
 </div>
 
 ---
@@ -112,7 +171,7 @@ Update: 2025-07-17
 香港科技大学（广州）是《粤港澳大湾区发展规划纲要》及《广州南沙深化面向世界的粤港澳全面合作总体方案》颁布实施以来成立的首家具有独立法人资格的内地与香港合作办学机构，经国家教育部批准于2022年6月正式成立。香港科技大学（广州）锐意创新，以发展融合学科为特色，探索创新人才培养模式，以建设成为内地与香港教育融合发展的典范、国际知名的高水平大学为己任，致力于培养面向未来的高水平创新型人才。
 
 <div align="center" style="margin: 40px 0;">
-<img src="/assets/img/digai/bridge.png" alt="HKUST(GZ) Bridge" style="max-width: 1000px; height: auto;">
+<img src="/assets/img/digai/bridge.png" alt="HKUST(GZ) Bridge" style="max-width: 900px; height: auto;">
 </div>
 
 香港科技大学（广州）依据有关规定及学校的毕业要求颁发香港科技大学硕士学位和博士学位证书。截至2024年9月，学校共有学术人员300余人，其中，长聘制学术人员240余人，100%拥有博士学位，98%拥有境外教育背景或工作经历，近20%获国家级人才项目，近50%入选省部级及以上人才项目，15%入选全球前2%顶尖科学家榜单。
@@ -122,7 +181,7 @@ Update: 2025-07-17
 香港科技大学（广州）的学科设置优先考虑国家发展的战略需求和大湾区发展的产业需要，致力于解决当前国家产业所面临的“卡脖子”科技和培养未来科技的创新型人才。学校采用全新的、融合学科的学术架构，以“枢纽”（Hub）和“学域”（Thrust）取代传统的“学院”和“学系”，推动学科交叉融合，大力发展新兴学科和前沿学科。
 
 <div align="center" style="margin: 40px 0;">
-<img src="/assets/img/digai/campus.png" alt="HKUST(GZ) Campus" style="max-width: 1000px; height: auto;">
+<img src="/assets/img/digai/campus.png" alt="HKUST(GZ) Campus" style="max-width: 900px; height: auto;">
 </div>
 
 
@@ -131,7 +190,7 @@ Update: 2025-07-17
 学校已与阿里云、粤芯半导体、深圳湾实验室等90余家领军企业和知名科研机构签订合作协议，与近10家行业龙头建立了联合实验室；校内创业孵化项目100余项，注册企业40余家。环港科大（广州）创新区正加快推进建设。学校与广州产投集团共同设立10亿元环港科大（广州）科技成果转化母基金，还牵手一批直投基金合作伙伴，总基金规模达到24亿元。
 
 <div align="center" style="margin: 40px 0;">
-<img src="/assets/img/digai/hkustgz.webp" alt="HKUST(GZ) Logo" style="max-width: 1000px; height: auto;">
+<img src="/assets/img/digai/hkustgz.webp" alt="HKUST(GZ) Logo" style="max-width: 900px; height: auto;">
 </div>
 
 ---
@@ -170,9 +229,8 @@ DIGAI Lab团队由杨萌林(Menglin Yang, https://yangmenglinsite.github.io/)导
 
 请将个人简历、本科硕士成绩单、专业排名证明（如有）、推荐信（如有）、代表性论文或项目（如有）、Research Proposal (如有)等发送至：
 
-**`digailab@outlook.com`**
+**`menglinyang[at]hkust-gz.edu.cn` or `digailab[at]outlook.com`**
 
 邮件标题格式：申请岗位名称+本人姓名+学位+毕业学校+所学专业。在收到申请材料后，进行初步筛选，并安排合适的面试时间。
 
-正式申请入口：https://fytgs.hkust-gz.edu.cn/
-
+正式申请入口：[https://fytgs.hkust-gz.edu.cn/](https://fytgs.hkust-gz.edu.cn/)
