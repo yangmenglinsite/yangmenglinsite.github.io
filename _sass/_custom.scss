@@ -59,12 +59,17 @@
       padding-left: 20px;
     }
   
-    a {
-      color: #a71d2a; /* Darker red for links */
-      text-decoration: none;
-  
-      &:hover {
-        text-decoration: underline;
-      }
+      a {
+    color: #a71d2a; /* Darker red for links */
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
     }
+  }
+}
+
+/* Make Menglin Yang's name bold in bibliography */
+.author-menglin-yang {
+  font-weight: bold !important;
 }
