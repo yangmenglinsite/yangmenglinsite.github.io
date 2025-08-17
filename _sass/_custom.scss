@@ -72,4 +72,33 @@
 /* Make Menglin Yang's name bold in bibliography */
 .author-menglin-yang {
   font-weight: bold !important;
+  color: var(--global-theme-color) !important;
+}
+/* Remove underline/border on Menglin Yang link when wrapped */
+.author-menglin-yang a {
+  border-bottom: none !important;
+  text-decoration: none !important;
+  color: var(--global-theme-color) !important;
+}
+
+/* Make site owner's name (wrapped in <em>) bold with no underline */
+.author > em {
+  border-bottom: none !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  color: var(--global-theme-color) !important;
+}
+
+/* Publication venue line color (make it white) */
+.publications .periodical,
+.publications .periodical em {
+  color: var(--global-text-color) !important;
+}
+
+/* Ensure venue + year sit between authors and buttons with clear spacing */
+.publications .periodical {
+  display: block;
+  margin-top: 0.35rem;
+  margin-bottom: 0.65rem;
+  line-height: 1.4;
 }
