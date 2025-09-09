@@ -32,13 +32,16 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 
 **Recently, I have been working on the following topics:**
 
-(1) Multi-modal LLMs & LLMs(Reasoning, Peft, RAG) and non-Euclidean LLMs
+(1) Multi-modal LLMs & LLMs(Peft, RAG, Agent, Reasoning) and non-Euclidean LLMs
 
-(2) Hyperbolic Representation Learning, Differential Geometry, and Hierarchical Modeling
 
-(3) Recommender Systems, Personalization, Knowledge graph, and Network sciences
+(2) Recommender Systems, Personalization, Knowledge graph, and Network sciences
 
-(4) Graph Learning and LLM4SCI
+
+(3) Hyperbolic Representation Learning, Differential Geometry, Hierarchical Modeling, Graph Learning and AI4SCI
+
+
+(4) Applications of LLMs and Multimodal LLMs in PCB Layout Routing and Personalized AI Copilot.
 
 
 
@@ -46,7 +49,12 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 
 {: .warning style="color: red;" }
 > 🔥 I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
-`menglinyang[at]hkust-gz.edu.cn` or `digailab[at]outlook.com`
+`menglinyang[at]hkust-gz.edu.cn` or `digailab[at]outlook.com` 
+\
+\
+To 港科大（广州）一年级红鸟硕士：非常欢迎与我联系，选择我作为学术导师。联系方式：可以通过邮件, 微信(sshyang2048)或Walk in来到W4-540。目前导师有比较多的精力和时间， 可提供充足的指导和交流。可选（1）大模型（微调，RAG,  Implicit Reasoning等），（2）个性化/推荐/搜索/广告以及（3）几何机器学习、双曲机器学习（4）大模型在PCB布局布线以及AI个性化应用等方向。\
+\
+Update: 2025-09-10
 
 
 {: .info }
