@@ -52,9 +52,9 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 `menglinyang[at]hkust-gz.edu.cn` or `digailab[at]outlook.com` 
 \
 \
-To 港科大（广州）一年级红鸟硕士：非常欢迎与我联系，选择我作为学术导师。联系方式：可以通过邮件, 微信(sshyang2048)或Walk in来到W4-540。目前导师有比较多的精力和时间， 可提供充足的指导和交流。可选（1）大模型（微调，RAG,  Implicit Reasoning等），（2）个性化/推荐/搜索/广告以及（3）几何机器学习、双曲机器学习（4）大模型在PCB布局布线以及AI个性化应用等方向。\
+To 港科大（广州）一年级红鸟硕士：欢迎与我联系, 讨论以上研究方向，选作学术导师。联系方式：邮件、微信(sshyang2048)，工作日Walk in W4-540。可选（1）大模型（微调，RAG,  Implicit Reasoning等），（2）个性化/推荐/搜索/广告以及（3）几何机器学习、双曲机器学习（4）大模型在PCB布局布线以及AI个性化应用等方向。\
 \
-Update: 2025-09-10
+Update: 2025-09-12
 
 
 {: .info }

@@ -108,7 +108,7 @@ nav_order: 2
 
 # HKUST(GZ) DIGAI Lab Recruitment
 
-Update: 2025-07-17
+Update: 2025-09-12
 
 The Data Intelligence and Geometric AI Laboratory (DIGAI Lab) at HKUST(GZ) is actively seeking passionate students to join our cutting-edge AI research team. We offer opportunities for PhD studies and remote visiting research positions. Our research spans representation learning, LLMs, geometric learning, and information retrieval, with a focus on advancing geometric AI theory and its applications in network science and scientific discovery. We welcome students from diverse backgrounds and provide extensive research resources and international collaboration opportunities.
 
@@ -118,51 +118,60 @@ The Data Intelligence and Geometric AI Laboratory (DIGAI Lab) at HKUST(GZ) is ac
 
 ---
 
-## 1. Main Research Directions
 
-### Direction 1: LLMs & Geometry
+## 1. Primary Research Directions
 
-This research focuses on enhancing LLM token embeddings and reasoning through geometric constraints, guidance, and priors. We leverage the intrinsic geometric structure of data and representation spaces to improve learning and reasoning processes.
+### Direction 1: Large Language Models (Fine-tuning, RAG, Reasoning)
 
-**Core Research Areas Include:**
+This research direction focuses on gaining deep insights into the fundamental mechanisms of large language models while enhancing their reasoning capabilities, representation quality, and multi-modal integration. Our goal is to build more efficient, interpretable, and controllable intelligent systems.
 
-- **LLM Embedding**: We investigate the geometric properties of internal representation spaces in Transformers and other large models, exploring topological structures, manifold features, and geometric invariances in high-dimensional embedding spaces
+**Core Research Areas:**
 
-- **Multi-modal Alignment**: We design unified representation frameworks using geometric constraints to align different data modalities (text, images, audio), achieving effective geometric alignment of multi-source heterogeneous data
+- **LLM Representation Analysis & Theoretical Foundations**: We investigate the internal representation mechanisms and geometric structures of large language models, exploring semantic space distributions of token embeddings, hierarchical representation learning, and the theoretical underpinnings of attention mechanisms. We develop interpretability analysis tools to reveal knowledge storage patterns, reasoning pathways, and decision-making processes in LLMs, providing theoretical guidance for model optimization and safety alignment.
 
-- **Reasoning & PEFT**: We develop novel reinforcement learning algorithms and fine-tuning strategies based on geometric priors to optimize model parameters and improve reasoning accuracy and training efficiency
+- **LLM Implicit Reasoning & Logic Enhancement**: Our research examines the implicit reasoning capabilities and logical thinking mechanisms of large models, developing reasoning enhancement methods based on Chain-of-Thought, tool learning, and program synthesis. We explore complex cognitive tasks including mathematical reasoning, causal inference, and commonsense reasoning to build intelligent systems capable of multi-step logical deduction and problem-solving.
 
-We welcome students interested in foundation models, representation learning, non-Euclidean spaces, hyperbolic geometry, or differential geometry and machine learning. Our goal is to achieve breakthrough progress in foundation models through interdisciplinary collaboration.
+- **Multi-Modal Alignment & Fusion Learning**: We construct unified multi-modal representation spaces to achieve deep alignment and semantic fusion between different modalities such as text, images, audio, and video. Our research focuses on cross-modal attention mechanisms, inter-modal knowledge transfer, and unified encoder architectures to develop large-scale foundation models capable of understanding and generating multi-modal content.
 
----
+- **Reinforcement Learning Reasoning & Parameter-Efficient Fine-tuning (PEFT)**: We combine reinforcement learning with Reinforcement Learning from Human Feedback (RLHF) techniques to improve reasoning accuracy and alignment effectiveness of large models. We explore parameter-efficient fine-tuning methods including LoRA, adapter networks, and prompt tuning to achieve rapid domain adaptation and task customization under limited computational resources while balancing model performance and computational efficiency.
 
-### Direction 2: Personalization and Recommendation Systems
-
-This research integrates knowledge graphs, personal data, and geometric modeling to build next-generation recommendation systems and personalized analysis frameworks. We address key challenges in personalized LLM applications, including hallucination problems, recommendation accuracy, social network dynamics, and group behavior prediction.
-
-**Core Research Areas Include:**
-
-- **Retrieval-Augmented Generation (RAG, GraphRAG)**: We build personalized large models using knowledge graphs and localized data, enhancing performance through RAG and Graph RAG technologies. By combining structured knowledge with unstructured text, we achieve precise information retrieval and generation while reducing hallucination problems
-
-- **Recommendation Systems**: We develop next-generation recommendation algorithms using deep learning and geometric constraints, integrating user behavior, content features, and social relationships. Our work addresses key challenges including cold start problems, data sparsity, and recommendation diversity
-
-- **Network Science & Graph Learning**: We develop efficient algorithms and frameworks for large-scale complex network modeling, representation learning, and optimization. Our focus includes community detection, information propagation, influence analysis, and link prediction using graph neural networks and geometric deep learning
-
-We welcome students interested in recommendation systems, social network analysis, knowledge graphs, graph neural networks, complex network theory, information retrieval, and related data mining and machine learning technologies.
+We welcome students and researchers interested in deep learning theory, natural language processing, computer vision, reinforcement learning, explainable AI, multi-modal learning, and related mathematical foundations and algorithmic optimization techniques to join our team.
 
 ---
 
-### Direction 3: AI4SCI: AI for Scientific Research
+### Direction 2: Personalized Modeling, Recommendation Algorithms, Knowledge Graphs & Social Networks
 
-This research integrates cutting-edge AI technologies with scientific research, driving transformative progress in bioinformatics, biomedicine, and materials science through foundation models and advanced algorithms. We aim to build intelligent scientific research paradigms that accelerate scientific discovery and address major challenges in human health and sustainable development.
+This research direction integrates knowledge graphs, localized data, and geometric modeling techniques to build recommendation systems and personalized analysis frameworks. We focus on addressing key challenges in personalized applications of large models, including hallucination problems, recommendation accuracy, social network dynamics, and group behavior prediction.
 
-**Core Research Areas Include:**
+**Core Research Areas:**
 
-- **Biomedical Data Intelligence**: We use LLMs and multi-modal models to process massive heterogeneous biomedical data, including gene sequence analysis, protein structure prediction, drug discovery, and clinical data mining, achieving intelligent transformation from data to knowledge
+- **Retrieval-Augmented Generation (RAG, GraphRAG)**: We develop personalized large models based on knowledge graphs and localized data, leveraging RAG (Retrieval-Augmented Generation) and Graph RAG technologies to enhance model performance for specific domains and user groups. By combining structured knowledge with unstructured text, we achieve precise information retrieval and generation while effectively mitigating hallucination problems and enhancing personalization capabilities.
 
-- **Geometric ML in Life Sciences**: We combine geometric deep learning with bioinformatics to develop geometric constraint models for molecular structures, protein folding, and drug-target interactions, improving biomedical research precision and efficiency
+- **Personalized LLMs & Adaptive Learning**: We investigate personalization techniques for large language models, including Parameter-Efficient Fine-Tuning (PEFT), Adapter Networks, Prompt Learning, and In-Context Learning methods. We explore user profiling, personal preference learning, and dynamic adaptation mechanisms to develop personalized intelligent assistants that continuously evolve based on user behavior and feedback, enabling personalized memory and knowledge accumulation in multi-turn conversations.
 
-We welcome researchers interested in computational biology, bioinformatics, medical informatics, drug design, and related interdisciplinary fields to join our team and contribute to AI4SCI innovation.
+- **Information Retrieval & Recommendation Systems**: We develop next-generation recommendation algorithms based on deep learning and geometric constraints, integrating user behavioral data, content features, and social relationships to build multi-modal recommendation models. We explore core techniques including collaborative filtering, content-based recommendation, and sequential recommendation to address key challenges such as cold start problems, data sparsity, and recommendation diversity.
+
+- **Large-scale Networks, Graph Representation & Optimization**: We focus on modeling, representation learning, and optimization problems for large-scale complex networks, developing efficient algorithms and theoretical frameworks. Our research emphasizes community detection, influence analysis, node classification, graph classification, and link prediction, combining graph neural networks with geometric deep learning techniques to capture hierarchical structures and dynamic evolution patterns in network structures.
+
+We welcome students and researchers interested in recommendation systems, social network analysis, knowledge graphs, graph neural networks, complex network theory, information retrieval, personalized large models, parameter-efficient fine-tuning, and related data mining and machine learning technologies to join our team.
+
+---
+
+### Direction 3: Hyperbolic Representation Learning & Non-Euclidean Geometric Machine Learning
+
+This research direction explores the deep applications of non-Euclidean geometric spaces (particularly hyperbolic geometry) in machine learning and data representation. We aim to transcend the limitations of traditional Euclidean spaces, providing novel geometric perspectives and theoretical frameworks for hierarchical data, complex networks, and high-dimensional data modeling.
+
+**Core Research Areas:**
+
+- **Hyperbolic Deep Learning**: We develop neural network architectures and optimization algorithms based on hyperbolic spaces, including hyperbolic convolutional neural networks, hyperbolic graph neural networks, and hyperbolic attention mechanisms. We explore deep learning models and reasoning systems that can naturally handle hierarchical structures and tree-like data.
+
+- **Hierarchical Representation Learning & Embedding**: We leverage the negative curvature properties of hyperbolic spaces to construct low-dimensional embedding representations for data with natural hierarchical structures (such as knowledge graphs, taxonomies, and organizational structures). We develop efficient hyperbolic embedding algorithms that preserve semantic similarity, encode hierarchical relationships, and enhance interpretability, particularly targeting hierarchical data in natural language processing, computer vision, and bioinformatics.
+
+- **Manifold Learning & Geometric Optimization**: We study optimization theory and algorithms on Riemannian manifolds, including hyperbolic spaces, spherical surfaces, and other non-Euclidean geometric manifolds. We develop geometry-based optimization methods and explore applications of geodesic gradient descent, exponential maps, and logarithmic maps in machine learning, providing theoretical foundations for constrained optimization and geometric deep learning.
+
+- **Geometric Network Representation**: We map complex networks into non-Euclidean geometric spaces to capture the intrinsic geometric structures and topological properties of networks. We study geometric invariance, scalability, and robustness of network embeddings, developing geometric representation methods that preserve network hierarchy, community structures, and dynamic evolution characteristics.
+
+We welcome students and researchers interested in differential geometry, Riemannian optimization, graph theory, deep learning theory, computational geometry, and related mathematical foundations and application domains to join our team.
 
 ---
 
