@@ -72,13 +72,13 @@
 /* Make Menglin Yang's name bold in bibliography */
 .author-menglin-yang {
   font-weight: bold !important;
-  color: var(--global-theme-color) !important;
+  color: var(--global-theme-color) !important; /* match title blue */
 }
 /* Remove underline/border on Menglin Yang link when wrapped */
 .author-menglin-yang a {
   border-bottom: none !important;
   text-decoration: none !important;
-  color: var(--global-theme-color) !important;
+  color: var(--global-theme-color) !important; /* match title blue */
 }
 
 /* Make site owner's name (wrapped in <em>) bold with no underline */
@@ -86,7 +86,7 @@
   border-bottom: none !important;
   font-style: normal !important;
   font-weight: 700 !important;
-  color: var(--global-theme-color) !important;
+  color: var(--global-theme-color) !important; /* match title blue */
 }
 
 /* Publication venue line color (make it white) */
@@ -112,4 +112,10 @@
 .publications .col-sm-8,
 .publications .col-sm-10 {
   display: block;
+}
+
+/* Spotlight label styling inside titles */
+.publications .title .spotlight {
+  color: #c62828 !important; /* red */
+  font-weight: 700;
 }

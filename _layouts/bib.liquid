@@ -48,10 +48,11 @@
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">
+  {% assign title_processed = entry.title | replace: '(Spotlight)', '<span class="spotlight">(Spotlight)</span>' %}
   {% if entry.url %}
-    <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>
+    <a href="{{ entry.url }}" target="_blank">{{ title_processed }}</a>
   {% else %}
-    {{ entry.title }}
+    {{ title_processed }}
   {% endif %}
   </div>
     <!-- Author -->
