@@ -13,7 +13,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -49,13 +49,12 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 
 {: .warning style="color: red;" }
 > 🔥 I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
-`menglinyang[at]hkust-gz.edu.cn` or `digailab[at]outlook.com` 
+`menglinyang[at]hkust-gz.edu.cn` 
 \
 \
-To 港科大（广州）一年级红鸟硕士：欢迎与我联系, 讨论以上研究方向，选作学术导师。联系方式：邮件、微信(sshyang2048)，工作日Walk in W4-540。可选（1）大模型（微调，RAG,  Implicit Reasoning等），（2）个性化/推荐/搜索/广告以及（3）几何机器学习、双曲机器学习（4）大模型在PCB布局布线以及AI个性化应用等方向。\
+To 港科大（广州）一年级红鸟硕士：欢迎与我联系, 讨论以上研究方向，选作学术导师。联系方式：邮件（`menglinyang[at]hkust-gz.edu.cn`）、微信(sshyang2048)，工作日Walk in W4-540。可选（1）大模型（微调，RAG,  Implicit Reasoning等），（2）个性化/推荐/搜索/广告以及（3）几何机器学习、双曲机器学习（4）大模型在PCB布局布线以及AI个性化应用等方向。\
 \
-Update: 2025-09-12
-
+Update: 2025-09-27
 
 {: .info }
 > 🌊 New papers, blogs, and books on hyperbolic representation and deep learning topics are shared in the following slack channel and GitHub repo. Welcome to join and share more on this fascinating research: \

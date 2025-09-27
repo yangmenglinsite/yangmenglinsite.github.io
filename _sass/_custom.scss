@@ -119,3 +119,12 @@
   color: #c62828 !important; /* red */
   font-weight: 700;
 }
+
+/* Adjust profile avatar crop and focal point */
+.profile-avatar {
+  object-fit: cover !important; /* ensure the image fills the circular mask */
+  object-position: 75% 60% !important; /* shift focal point slightly left */
+  aspect-ratio: 0.8 / 1; /* enforce square to keep perfect circle */
+  width: 100%;
+  height: auto;
+}
