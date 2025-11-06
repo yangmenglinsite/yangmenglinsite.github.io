@@ -50,10 +50,7 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 {: .warning style="color: red;" }
 > 🔥 I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
 `menglinyang[at]hkust-gz.edu.cn` 
-\
-\
-To 港科大（广州）红鸟硕士：欢迎与我联系, 讨论以上研究方向，选作学术导师。联系方式：邮件（`menglinyang[at]hkust-gz.edu.cn`）、微信(sshyang2048)，工作日Walk in W4-540。可选（1）大模型（微调，RAG,  Implicit Reasoning等），（2）个性化/推荐/搜索/广告以及（3）几何机器学习、双曲机器学习（4）大模型在PCB布局布线以及AI个性化应用等方向。\
-\
+
 Update: 2025-10-17
 
 {: .info }
