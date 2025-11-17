@@ -45,13 +45,12 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 
 
 
- 
+Update: 2025-11-18 
 
 {: .warning style="color: red;" }
 > 🔥 I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
 `menglinyang[at]hkust-gz.edu.cn` 
 
-Update: 2025-10-17
 
 {: .info }
 > 🌊 New papers, blogs, and books on hyperbolic representation and deep learning topics are shared in the following slack channel and GitHub repo. Welcome to join and share more on this fascinating research: \
