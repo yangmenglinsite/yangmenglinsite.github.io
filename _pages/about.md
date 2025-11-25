@@ -26,9 +26,6 @@ I was a Postdoc Research at [Yale University](https://graph-and-geometric-learni
 
 Information about PhD student recruitment can be found on pages in [Chinese Version](./recruitment/), or [English Version](./recruitment_en/).
 
-**If you represent a company and seek collaboration**, kindly e-mail me.
-
-**Research Interests**. My research is primarily focused on exploring the connection and alignment between the **learning space**, especially the hyperbolic space, and **the underlying geometries, structures, and patterns** in different types of data.
 
 **Recently, I have been working on the following topics:**
 
@@ -38,14 +35,14 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 (2) Recommender Systems, Personalization, Knowledge graph, and Network sciences
 
 
-(3) Hyperbolic Representation Learning, Differential Geometry, Hierarchical Modeling, Graph Learning and AI4SCI
+(3) Hyperbolic Representation Learning, Differential Geometry, Hierarchical Modeling, Geometric Learning and AI4SCI
 
 
-(4) Applications of LLMs and Multimodal LLMs in PCB Layout Routing and Personalized AI Copilot.
+(4) Data-centric AI and Multimodal LLMs in PCB Routing and Placement.
 
 
 
-Update: 2025-11-18 
+Update: 2025-11-25
 
 {: .warning style="color: red;" }
 > 🔥 I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
