@@ -27,22 +27,19 @@ I was a Postdoc Research at [Yale University](https://graph-and-geometric-learni
 Information about PhD student recruitment can be found on pages in [Chinese Version](./recruitment/), or [English Version](./recruitment_en/).
 
 
-**Recently, I have been working on the following topics:**
+Recently, I have been working on **data-centric AI and geometric learning for AI (DIGAI)**, including the following topics:
 
-(1) Multi-modal LLMs & LLMs(Peft, RAG, Agent, Reasoning) and non-Euclidean LLMs
-
-
-(2) Recommender Systems, Personalization, Knowledge graph, and Network sciences
+(1) **Foundation Models**. LLMs(Peft, RAG, Agent, Reasoning)、Multi-modal LLMs & Non-Euclidean LLMs
 
 
-(3) Hyperbolic Representation Learning, Differential Geometry, Hierarchical Modeling, Geometric Learning and AI4SCI
+(2) **Information Retrival**. Recommender Systems, Personalization, Knowledge graph, Data mining and Network sciences
 
 
-(4) Data-centric AI and Multimodal LLMs in PCB Routing and Placement.
+(3) **Geometric Learning**. Hyperbolic Representation Learning, Differential Geometry, Hierarchical Modeling, Geometric Learning and AI4SCI
 
 
 
-Update: 2025-11-25
+Update: 2025-11-30
 
 {: .warning style="color: red;" }
 > 🔥 I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
