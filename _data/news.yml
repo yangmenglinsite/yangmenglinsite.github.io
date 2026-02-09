@@ -1,0 +1,36 @@
+# News items - add new entries at the top
+# Format:
+#   - date: YYYY-MM-DD
+#     content: "Your news text here"
+#     hidden: true  # (optional) set to hide an item
+
+- date: 2026-02-09
+  content: "Give a talk on LLM Foundation: from pretrain, midtraining to posttraining"
+
+- date: 2026-02-06
+  content: "One paper accepted by TOMM. Congrats to all coauthors!"
+
+- date: 2026-01-27
+  content: "Two papers were accepted by ICLR 2026. Congrats to all coauthors!"
+
+- date: 2026-01-01
+  content: "One paper was accepted by TPAMI. Congrats to all coauthors!"
+
+- date: 2026-01-20
+  content: "Give a tutorial talk at AAAI 2026"
+
+- date: 2025-10-25
+  content: "Give a Talk at MSU-BIT"
+
+- date: 2025-10-01
+  content: "One paper accepted by TIP. Congrats to all coauthors!"
+
+- date: 2025-09-29
+  content: "Give a talk at Duke Kunshan University - DKU"
+
+- date: 2025-09-27
+  content: "Redbird graduate students are welcome to contact me about AS"
+  hidden: true
+
+- date: 2025-09-18
+  content: "Three NeurIPS papers are accepted and one first-author paper was selected as spotlight. Congrats to all coauthors!"

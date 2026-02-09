@@ -13,7 +13,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -26,10 +26,12 @@ I was a Postdoc Research at [Yale University](https://graph-and-geometric-learni
 
 Information about PhD student recruitment can be found on pages in [Chinese Version](./recruitment/), or [English Version](./recruitment_en/).
 
+目前2026年秋季博士生还在招生，相关信息可以在[中文版](./recruitment/)或[英文版](./recruitment_en/)页面上看到，欢迎联系。
+
 
 Recently, I have been working on **data-centric AI and geometric learning for AI (DIGAI)**, including the following topics:
 
-(1) **Foundation Models**. LLMs(Peft, RAG, Agent, Reasoning)、Multi-modal LLMs & Non-Euclidean LLMs
+(1) **Foundation Models**. LLMs(PEFT, RAG, Agent, Reasoning, Memeory)、& Non-Euclidean LLMs
 
 
 (2) **Information Retrival**. Recommender Systems, Personalization, Knowledge graph, Data mining and Network sciences
@@ -39,7 +41,7 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
 
 
 
-Update: 2025-11-30
+Update: 2026-02-09
 
 {: .warning style="color: red;" }
 > 🔥 I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:

@@ -9,6 +9,15 @@ nav_order: 3
 
 <!-- _pages/events.md -->
 
+### **[AAAI 2025 Hyperbolic FM Tutorial (2026.01)](https://hyperboliclearning.github.io/events/aaai2026tutorial)**
+Foundation models, including large language models, vision transformers, diffusion models, and multi-modal systems, have transformed machine learning across numerous domains. However, their reliance on Euclidean geometry imposes fundamental limitations when representing hierarchical structures and scale-free distributions that are prevalent in real-world data. Hyperbolic geometry, with its exponential volume growth relative to distance, provides a mathematically principled framework for embedding tree-like structures and power-law distributions more efficiently.
+
+This tutorial offers a comprehensive review of hyperbolic methods for foundation models, examining theoretical foundations, architectural innovations, implementation strategies, and scaling challenges, with particular emphasis on applications to language, vision, and multi-modal learning.
+
+<div style="background: #eaf4fb; padding: 0.5em 1em; border-radius: 4px; margin: 1em 0; font-size: 1em;">
+Organized by:  Jiahong Liu, <strong>Menglin Yang</strong>, Irwin King
+</div>
+
 ### **[NeurIPS 2025 NEGEL Workshop (2025.12)](https://hyperboliclearning.github.io/events/neurips2025negelworkshop)**
 
 The Non-Euclidean Foundation Models and Geometric Learning Workshop will take place at NeurIPS 2025 in San Diego, CA, USA, from December 2–7, 2025. We invite you to join discussions on non-Euclidean representation learning, geometric deep learning, and large foundation models!

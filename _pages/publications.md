@@ -9,6 +9,8 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+<p style="color: #c62828; font-weight: bold;">This page will not be updated in time. Please check the <a href="https://scholar.google.com/citations?user=KroqSRUAAAAJ&hl" style="color: #c62828; text-decoration: underline;">Google Scholar</a> for the full list.</p>
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
