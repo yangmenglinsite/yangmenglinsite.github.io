@@ -120,6 +120,11 @@
   font-weight: 700;
 }
 
+/* Push profile photo down to align with Background text (below About heading) */
+.profile.float-right {
+  margin-top: 4.0em;
+}
+
 /* Adjust profile avatar crop and focal point */
 .profile-avatar {
   object-fit: cover !important; /* ensure the image fills the circular mask */

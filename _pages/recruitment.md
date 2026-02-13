@@ -9,7 +9,7 @@ nav_order: 4
 
 <style>
 .post article img, article img {
-  max-width: 900px;
+  max-width: 600px;
   height: auto;
   display: block;
   margin: 0 auto;
@@ -82,7 +82,7 @@ nav_order: 4
 # 香港科技大学（广州）DIGAI Lab 博士生、硕士生、本科生/研究助理招聘
 
 <div align="center" style="margin: 20px 0;">
-<img src="/assets/img/digai/lab_logo.webp" alt="DIGAI Lab Logo" style="max-width: 900px; height: auto;">
+<img src="/assets/img/digai/lab_logo.webp" alt="DIGAI Lab Logo" style="max-width: 600px; height: auto;">
 </div>
 
 香港科技大学（广州）数据智能与几何人工智能实验室（DIGAI Lab）诚邀有志于AI前沿研究的优秀学子加入，攻读博士学位或进行（远程）访问研究。实验室专注于**表示学习、大模型、几何拓扑、信息检索**，致力于推动几何与人工智能的理论发展，以及其在网络科学、科学发现领域的应用。欢迎具有不同学科背景的同学共同探索前沿领域，并提供丰富的科研资源与国际合作机会。
@@ -156,7 +156,7 @@ update: 2026-02-09
 香港科技大学（广州）是《粤港澳大湾区发展规划纲要》及《广州南沙深化面向世界的粤港澳全面合作总体方案》颁布实施以来成立的首家具有独立法人资格的内地与香港合作办学机构，经国家教育部批准于2022年6月正式成立。学校锐意创新，以发展融合学科为特色，探索创新人才培养模式，致力于培养面向未来的高水平创新型人才。
 
 <div align="center" style="margin: 40px 0;">
-<img src="/assets/img/digai/bridge.png" alt="HKUST(GZ) Bridge" style="max-width: 900px; height: auto;">
+<img src="/assets/img/digai/bridge.png" alt="HKUST(GZ) Bridge" style="max-width: 600px; height: auto;">
 </div>
 
 香港科技大学（广州）依据有关规定颁发**香港科技大学硕士学位和博士学位证书**。截至2024年9月，学校共有学术人员300余人，其中长聘制学术人员240余人，100%拥有博士学位，98%拥有境外教育背景或工作经历，近20%获国家级人才项目，近50%入选省部级及以上人才项目，15%入选全球前2%顶尖科学家榜单。
@@ -164,13 +164,13 @@ update: 2026-02-09
 港科大和港科大（广州）在"**两校一体，双校互补**"的框架下实行资源共享，如在实验室、图书馆、课程和教师等方面，融合内地与香港优质教育资源，立足中国，面向世界，矢志建设成为世界一流高等学府。
 
 <div align="center" style="margin: 40px 0;">
-<img src="/assets/img/digai/campus.png" alt="HKUST(GZ) Campus" style="max-width: 900px; height: auto;">
+<img src="/assets/img/digai/campus.png" alt="HKUST(GZ) Campus" style="max-width: 600px; height: auto;">
 </div>
 
 自建校以来，学校已获批3个广东省重点实验室（研究基地、平台），11个广州市重点实验室，已获批各级政府资助科研项目300余项，包含国家级项目66项，承担和参与国家级重点重大专项18项。学校已与阿里云、粤芯半导体、深圳湾实验室等90余家领军企业和知名科研机构签订合作协议，与近10家行业龙头建立了联合实验室。
 
 <div align="center" style="margin: 40px 0;">
-<img src="/assets/img/digai/hkustgz.webp" alt="HKUST(GZ) Logo" style="max-width: 900px; height: auto;">
+<img src="/assets/img/digai/hkustgz.webp" alt="HKUST(GZ) Logo" style="max-width: 600px; height: auto;">
 </div>
 
 ---

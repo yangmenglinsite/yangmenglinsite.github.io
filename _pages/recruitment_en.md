@@ -9,7 +9,7 @@ nav_order: 2
 
 <style>
 .post article img, article img {
-  max-width: 900px;
+  max-width: 600px;
   height: auto;
   display: block;
   margin: 0 auto;
@@ -82,7 +82,7 @@ nav_order: 2
 # HKUST(GZ) DIGAI Lab Recruitment
 
 <div align="center" style="margin: 20px 0;">
-<img src="/assets/img/digai/lab_logo.webp" alt="DIGAI Lab Logo" style="max-width: 900px; height: auto;">
+<img src="/assets/img/digai/lab_logo.webp" alt="DIGAI Lab Logo" style="max-width: 600px; height: auto;">
 </div>
 
 The Data Intelligence and Geometric AI Laboratory (DIGAI Lab) at HKUST(GZ) is actively seeking passionate students to join our cutting-edge AI research team. We offer opportunities for PhD studies and remote visiting research positions. Our research spans **representation learning, LLMs, geometric learning, and information retrieval**, with a focus on advancing geometric AI theory and its applications in network science and scientific discovery. We welcome students from diverse backgrounds and provide extensive research resources and international collaboration opportunities.
@@ -154,7 +154,7 @@ We welcome students and researchers interested in differential geometry, Riemann
 HKUST(GZ) is the first legally independent mainland-Hong Kong cooperative educational institution established under the Greater Bay Area development framework. Officially established in June 2022 with approval from China's Ministry of Education, HKUST(GZ) focuses on interdisciplinary innovation and exploring new talent cultivation models, dedicated to cultivating future-oriented, high-level innovative talents.
 
 <div align="center" style="margin: 40px 0;">
-<img src="/assets/img/digai/bridge.png" alt="HKUST(GZ) Bridge" style="max-width: 900px; height: auto;">
+<img src="/assets/img/digai/bridge.png" alt="HKUST(GZ) Bridge" style="max-width: 600px; height: auto;">
 </div>
 
 HKUST(GZ) awards **master's and doctoral degrees from The Hong Kong University of Science and Technology**. As of September 2024, we have over 300 academic staff, including 240+ tenured faculty. All faculty hold doctoral degrees, 98% have international experience, nearly 20% are national-level talent program recipients, nearly 50% are provincial/ministerial-level talent program selectees, and 15% are ranked among the global top 2% scientists.
@@ -162,13 +162,13 @@ HKUST(GZ) awards **master's and doctoral degrees from The Hong Kong University o
 HKUST and HKUST(GZ) operate under a **"Unified HKUST, Complementary Campuses"** framework, sharing resources including laboratories, libraries, courses, and faculty, integrating the best educational resources from the mainland and Hong Kong.
 
 <div align="center" style="margin: 40px 0;">
-<img src="/assets/img/digai/campus.png" alt="HKUST(GZ) Campus" style="max-width: 900px; height: auto;">
+<img src="/assets/img/digai/campus.png" alt="HKUST(GZ) Campus" style="max-width: 600px; height: auto;">
 </div>
 
 Since establishment, the university has been approved for 3 Guangdong Provincial Key Laboratories and 11 Guangzhou Municipal Key Laboratories, securing over 300 government-funded research projects including 66 national-level projects and participation in 18 national key and major projects. The university has signed cooperation agreements with over 90 leading enterprises and research institutions, including Alibaba Cloud, GTA Semiconductor, and Shenzhen Bay Laboratory, and established joint laboratories with nearly 10 industry leaders.
 
 <div align="center" style="margin: 40px 0;">
-<img src="/assets/img/digai/hkustgz.webp" alt="HKUST(GZ) Logo" style="max-width: 900px; height: auto;">
+<img src="/assets/img/digai/hkustgz.webp" alt="HKUST(GZ) Logo" style="max-width: 600px; height: auto;">
 </div>
 
 ---

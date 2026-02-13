@@ -26,7 +26,7 @@ I was a Postdoc Research at [Yale University](https://graph-and-geometric-learni
 
 Information about PhD student recruitment can be found on pages in [Chinese Version](./recruitment/), or [English Version](./recruitment_en/).
 
-目前2026年秋季博士生还在招生，相关信息可以在[中文版](./recruitment/)或[英文版](./recruitment_en/)页面上看到，欢迎联系。
+
 
 
 Recently, I have been working on **data-centric AI and geometric learning for AI (DIGAI)**, including the following topics:
