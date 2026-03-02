@@ -4,6 +4,12 @@
 #     content: "Your news text here"
 #     hidden: true  # (optional) set to hide an item
 
+- date: 2026-02-18
+  content: "KDD 2026 Cup proposal was accepted."
+
+- date: 2026-02-26
+  content: "KDD 2026 Workshop on Geometric Foundation Models was accepted."
+
 - date: 2026-02-09
   content: "Give a talk on LLM Foundation: from pretrain, midtraining to posttraining"
 
