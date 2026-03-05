@@ -46,6 +46,7 @@ Update: 2026-02-09
 {: .warning style="color: red;" }
 > 🔥 I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
 `menglinyang[at]hkust-gz.edu.cn` 
+Wechat(微信)：mlyang2026
 
 
 {: .info }
@@ -53,5 +54,4 @@ Update: 2026-02-09
 > <img src="/assets/img/slack-icon.png" alt="Slack" style="width: 15px; height: 15px; vertical-align: middle; margin-right: 0.1px;"> [Slack Channel: Hyperbolic Representation and Deep Learning](https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA) \
 > <i class="fab fa-github" style="color: #333;"></i> [Github Repo: Awesome Hyperbolic Representation and Deep Learning GitHub Repository](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning) \
 > <i class="fas fa-globe" style="color: #0066cc;"></i> [Hyperbolic Learning Website: Hyperbolic Deep Learning in the Age of LLMs](https://hyperboliclearning.github.io/)
-
 
