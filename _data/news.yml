@@ -4,6 +4,9 @@
 #     content: "Your news text here"
 #     hidden: true  # (optional) set to hide an item
 
+- date: 2026-03-22
+  content: "One paper on Multimodal LLM was accepted by TPAMI."
+
 - date: 2026-02-18
   content: "KDD 2026 Cup proposal was accepted."
 
