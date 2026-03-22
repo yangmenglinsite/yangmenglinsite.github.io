@@ -131,14 +131,14 @@
   }
 }
 
-/* Increase font size for latest posts */
-.news table td a {
-  font-size: 1.1rem;  /* Adjust this value as needed */
-  line-height: 1.2;   /* Adjust line height for better readability */
-  font-weight: $font-weight-normal;
+.news table td {
+  font-size: inherit;
+  line-height: inherit;
+  padding-bottom: 0.5rem;
 }
 
-/* Optional: adjust spacing between posts */
-.news table td {
-  padding-bottom: 0.5rem;
+.news table td a {
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: inherit;
 }
