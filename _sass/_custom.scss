@@ -125,6 +125,12 @@
   margin-top: 4.0em;
 }
 
+@media (min-width: 576px) {
+  .profile {
+    width: 18%;
+  }
+}
+
 /* Adjust profile avatar crop and focal point */
 .profile-avatar {
   object-fit: cover !important; /* ensure the image fills the circular mask */
