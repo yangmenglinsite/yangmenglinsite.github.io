@@ -5,7 +5,7 @@
 #     hidden: true  # (optional) set to hide an item
 
 - date: 2026-04-07
-  content: "Two paper accepted by ACL main conference"
+  content: "Two papers accepted by the ACL main conference."
 
 - date: 2026-03-22
   content: 'One paper on <a href="https://arxiv.org/abs/2507.22920">Multimodal LLM</a> was accepted by TPAMI.'
