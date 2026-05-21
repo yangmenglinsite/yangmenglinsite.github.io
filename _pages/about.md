@@ -33,7 +33,7 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
 
 - **LLM and Agent.** LLMs(Pretraining, CPT), PEFT, RAG, agents, reasoning, memory, multimodal learning, and non-Euclidean foundation models.
 - **Information Retrieval and Personalization.** Recommender systems, personalization, knowledge graphs, data mining, and network sciences.
-- **Geometric Representation Learning.** Hyperbolic representation learning, differential geometry, hierarchical modeling, and AI for science.
+- **Hyperbolic and Riemannian Geometric Representation Learning.** Hyperbolic representation learning, differential geometry, hierarchical modeling, and AI for science.
 {: .research-summary-list}
 
 <div class="research-directions">
@@ -77,21 +77,22 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
         </span>
       </li>
       <li>
-        <span class="research-paper-venue">KDD 2022</span>
+        <span class="research-paper-venue">KDD 2026</span>
         <span class="research-paper-title">
-          <a href="https://arxiv.org/abs/2207.09051">HICF: Hyperbolic Informative Collaborative Filtering</a>
+          <a href="https://yangmenglinsite.github.io/">Expand More, Shrink Less: Shaping Effective-Rank Dynamics for Dense Scaling in Recommendation</a>
         </span>
       </li>
     </ol>
   </section>
 
   <section class="research-direction">
-    <h3>Geometric Representation Learning</h3>
+    <h3>Hyperbolic and Riemannian Geometric Representation Learning</h3>
     <ol class="research-paper-list">
       <li>
-        <span class="research-paper-venue">KDD 2024</span>
+        <span class="research-paper-venue">ICML 2026</span>
         <span class="research-paper-title">
-          <a href="https://arxiv.org/abs/2407.01290">Hypformer: Exploring Efficient Transformer in Hyperbolic Space</a>
+          <a href="https://openreview.net/forum?id=xEsJW4xqQC">FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space</a>
+          <span class="research-paper-note">(Spotlight)</span>
         </span>
       </li>
       <li>
@@ -102,10 +103,9 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
         </span>
       </li>
       <li>
-        <span class="research-paper-venue">ICML 2026</span>
+        <span class="research-paper-venue">KDD 2024</span>
         <span class="research-paper-title">
-          <a href="https://openreview.net/forum?id=xEsJW4xqQC">FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space</a>
-          <span class="research-paper-note">(Spotlight)</span>
+          <a href="https://arxiv.org/abs/2407.01290">Hypformer: Exploring Efficient Transformer in Hyperbolic Space</a>
         </span>
       </li>
     </ol>
