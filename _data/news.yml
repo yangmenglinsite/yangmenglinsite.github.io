@@ -4,6 +4,9 @@
 #     content: "Your news text here"
 #     hidden: true  # (optional) set to hide an item
 
+- date: 2026-05-21
+  content: "Two papers were accepted by KDD 2026. Congrats to all co-authors!"
+
 - date: 2026-05-03
   content: "Five papers were accepted by ICML 2026. Congrats to all coauthors!"
 

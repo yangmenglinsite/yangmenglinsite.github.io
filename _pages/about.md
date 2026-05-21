@@ -14,7 +14,7 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # temporarily hide selected publications; keep the section available for future use
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -31,17 +31,88 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 
 Recently, I have been working on **data-centric AI and geometric learning for AI (DIGAI)**, including the following topics:
 
-(1) **Foundation Models**. LLMs(PEFT, RAG, Agent, Reasoning, Memeory)、& Non-Euclidean LLMs
+- **LLM and Agent.** LLMs(Pretraining, CPT), PEFT, RAG, agents, reasoning, memory, multimodal learning, and non-Euclidean foundation models.
+- **Information Retrieval and Personalization.** Recommender systems, personalization, knowledge graphs, data mining, and network sciences.
+- **Geometric Representation Learning.** Hyperbolic representation learning, differential geometry, hierarchical modeling, and AI for science.
+{: .research-summary-list}
 
+<div class="research-directions">
+  <section class="research-direction">
+    <h3>LLM and Agent</h3>
+    <ol class="research-paper-list">
+      <li>
+        <span class="research-paper-venue">ICML 2026</span>
+        <span class="research-paper-title">
+          <a href="https://arxiv.org/abs/2605.00529">Tree-RAG: Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation</a>
+        </span>
+      </li>
+      <li>
+        <span class="research-paper-venue">ACL 2026</span>
+        <span class="research-paper-title">
+          <a href="https://arxiv.org/abs/2604.16839">HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents</a>
+        </span>
+      </li>
+      <li>
+        <span class="research-paper-venue">NeurIPS 2025</span>
+        <span class="research-paper-title">
+          <a href="https://arxiv.org/abs/2505.24722">HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts</a>
+        </span>
+      </li>
+    </ol>
+  </section>
 
-(2) **Information Retrival**. Recommender Systems, Personalization, Knowledge graph, Data mining and Network sciences
+  <section class="research-direction">
+    <h3>Information Retrieval and Personalization</h3>
+    <ol class="research-paper-list">
+      <li>
+        <span class="research-paper-venue">KDD 2026</span>
+        <span class="research-paper-title">
+          <a href="https://arxiv.org/abs/2411.13865">HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems</a>
+        </span>
+      </li>
+      <li>
+        <span class="research-paper-venue">ICLR 2026</span>
+        <span class="research-paper-title">
+          <a href="https://openreview.net/pdf?id=Lwn67fk9e1">PerFit: Exploring Personalization Shifts in Representation Space of LLMs</a>
+        </span>
+      </li>
+      <li>
+        <span class="research-paper-venue">KDD 2022</span>
+        <span class="research-paper-title">
+          <a href="https://arxiv.org/abs/2207.09051">HICF: Hyperbolic Informative Collaborative Filtering</a>
+        </span>
+      </li>
+    </ol>
+  </section>
 
+  <section class="research-direction">
+    <h3>Geometric Representation Learning</h3>
+    <ol class="research-paper-list">
+      <li>
+        <span class="research-paper-venue">KDD 2024</span>
+        <span class="research-paper-title">
+          <a href="https://arxiv.org/abs/2407.01290">Hypformer: Exploring Efficient Transformer in Hyperbolic Space</a>
+        </span>
+      </li>
+      <li>
+        <span class="research-paper-venue">NeurIPS 2025</span>
+        <span class="research-paper-title">
+          <a href="https://arxiv.org/abs/2410.04010">HypLoRA: Hyperbolic Fine-tuning for Large Language Models</a>
+          <span class="research-paper-note">(Spotlight)</span>
+        </span>
+      </li>
+      <li>
+        <span class="research-paper-venue">ICML 2026</span>
+        <span class="research-paper-title">
+          <a href="https://openreview.net/forum?id=xEsJW4xqQC">FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space</a>
+          <span class="research-paper-note">(Spotlight)</span>
+        </span>
+      </li>
+    </ol>
+  </section>
+</div>
 
-(3) **Geometric Learning**. Hyperbolic Representation Learning, Differential Geometry, Hierarchical Modeling, Geometric Learning and AI4SCI
-
-
-
-Update: 2026-02-09
+Update: 2026-05-21
 
 {: .warning style="color: red;" }
 > 🔥 I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
@@ -54,4 +125,3 @@ Wechat(微信)：mlyang2026
 > <img src="/assets/img/slack-icon.png" alt="Slack" style="width: 15px; height: 15px; vertical-align: middle; margin-right: 0.1px;"> [Slack Channel: Hyperbolic Representation and Deep Learning](https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA) \
 > <i class="fab fa-github" style="color: #333;"></i> [Github Repo: Awesome Hyperbolic Representation and Deep Learning GitHub Repository](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning) \
 > <i class="fas fa-globe" style="color: #0066cc;"></i> [Hyperbolic Learning Website: Hyperbolic Deep Learning in the Age of LLMs](https://hyperboliclearning.github.io/)
-

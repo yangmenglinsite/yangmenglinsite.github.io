@@ -126,8 +126,8 @@
 }
 
 @media (min-width: 576px) {
-  .profile {
-    width: 18%;
+  .post .profile {
+    width: 24% !important;
   }
 }
 
@@ -138,4 +138,111 @@
   aspect-ratio: 0.8 / 1; /* enforce square to keep perfect circle */
   width: 100%;
   height: auto;
+}
+
+.research-directions {
+  margin: 1.25rem 0 1.8rem;
+  border-top: 1px solid var(--global-divider-color);
+}
+
+.research-summary-list {
+  margin-top: 0.9rem;
+  margin-bottom: 1.25rem;
+}
+
+.research-summary-list li {
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
+
+.research-summary-list li:last-child {
+  margin-bottom: 0;
+}
+
+.research-direction {
+  padding: 0.85rem 0 0.9rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  background: transparent;
+}
+
+.research-direction h3 {
+  margin: 0 0 0.45rem;
+  color: var(--global-text-color);
+  font-family: inherit;
+  font-size: 1.08rem;
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+.research-direction p {
+  margin: 0;
+  color: #345b7d;
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+.research-paper-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.research-paper-list li {
+  display: grid;
+  grid-template-columns: 6.8rem 1fr;
+  gap: 0.75rem;
+  align-items: baseline;
+  padding: 0.28rem 0;
+  border-top: 0;
+  line-height: 1.45;
+}
+
+.research-paper-list li:first-child {
+  padding-top: 0.25rem;
+}
+
+.research-paper-list li:last-child {
+  padding-bottom: 0;
+}
+
+.research-paper-venue {
+  color: var(--global-text-color);
+  font-size: 0.76rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  white-space: nowrap;
+}
+
+.research-paper-list a {
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.research-paper-title {
+  min-width: 0;
+}
+
+.research-paper-note {
+  color: #b42318;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+html[data-theme="dark"] {
+  .research-direction {
+    border-bottom-color: var(--global-divider-color);
+  }
+
+  .research-direction h3 {
+    color: var(--global-text-color);
+  }
+
+}
+
+@media (max-width: 575px) {
+  .research-paper-list li {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+  }
 }
