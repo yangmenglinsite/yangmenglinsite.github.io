@@ -35,11 +35,11 @@
 
 
   .warning {
-    background-color: #f8d7da; /* Red background */
-    border-left: 6px solid #dc3545; /* Red border */
+    background-color: rgba(0, 102, 204, 0.06);
+    border-left: 4px solid var(--global-theme-color);
     margin-bottom: 15px;
     padding: 16px;
-    color: #721c24; /* Dark red text color */
+    color: var(--global-text-color);
   
     > blockquote {
       border: none;
@@ -60,13 +60,17 @@
     }
   
       a {
-    color: #a71d2a; /* Darker red for links */
+    color: var(--global-theme-color);
     text-decoration: none;
 
     &:hover {
       text-decoration: underline;
     }
   }
+}
+
+html[data-theme="dark"] .warning {
+  background-color: rgba(92, 170, 255, 0.12);
 }
 
 /* Make Menglin Yang's name bold in bibliography */

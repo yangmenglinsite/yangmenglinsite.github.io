@@ -20,9 +20,9 @@ social: true # includes social icons at the bottom of the page
 
 ## About
 
-**Background**. I am currently an assistant professor at Thrust of Artificial Intelligence at [Hong Kong University of Science and Technology (Guangzhou), HKUSTGZ](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YANG-Menglin/menglinyang). 
+**Background**. I am currently an assistant professor in the Thrust of Artificial Intelligence at [Hong Kong University of Science and Technology (Guangzhou), HKUSTGZ](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YANG-Menglin/menglinyang). 
 I am also affiliated with The Hong Kong University of Science and Technology (HKUST). 
-I was a Postdoc Research at [Yale University](https://graph-and-geometric-learning.github.io/). Before that, I obtained my Ph.D. from [The Chinese University of Hong Kong](https://misc-lab.cse.cuhk.edu.hk/).
+I was a postdoctoral researcher at [Yale University](https://graph-and-geometric-learning.github.io/). Before that, I obtained my Ph.D. from [The Chinese University of Hong Kong](https://misc-lab.cse.cuhk.edu.hk/).
 
 Information about PhD student recruitment can be found on pages in [Chinese Version](./recruitment/), or [English Version](./recruitment_en/).
 
@@ -114,7 +114,7 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
 
 Update: 2026-05-21
 
-{: .warning style="color: red;" }
+{: .warning }
 > 🔥 I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
 `menglinyang[at]hkust-gz.edu.cn` 
 Wechat(微信)：mlyang2026
