@@ -92,7 +92,7 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
         <span class="research-paper-venue">ICML 2026</span>
         <span class="research-paper-title">
           <a href="https://openreview.net/forum?id=xEsJW4xqQC">FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space</a>
-          <span class="research-paper-note">(Spotlight)</span>
+          <span class="research-paper-note">(Spotlight, Oral)</span>
         </span>
       </li>
       <li>
