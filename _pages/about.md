@@ -67,6 +67,12 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
       <li>
         <span class="research-paper-venue">KDD 2026</span>
         <span class="research-paper-title">
+          <a href="https://arxiv.org/abs/2605.23191">Expand More, Shrink Less: Shaping Effective-Rank Dynamics for Dense Scaling in Recommendation</a>
+        </span>
+      </li>
+      <li>
+        <span class="research-paper-venue">KDD 2026</span>
+        <span class="research-paper-title">
           <a href="https://arxiv.org/abs/2411.13865">HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems</a>
         </span>
       </li>
@@ -74,12 +80,6 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
         <span class="research-paper-venue">ICLR 2026</span>
         <span class="research-paper-title">
           <a href="https://openreview.net/pdf?id=Lwn67fk9e1">PerFit: Exploring Personalization Shifts in Representation Space of LLMs</a>
-        </span>
-      </li>
-      <li>
-        <span class="research-paper-venue">KDD 2026</span>
-        <span class="research-paper-title">
-          <a href="https://yangmenglinsite.github.io/">Expand More, Shrink Less: Shaping Effective-Rank Dynamics for Dense Scaling in Recommendation</a>
         </span>
       </li>
     </ol>
@@ -92,7 +92,7 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
         <span class="research-paper-venue">ICML 2026</span>
         <span class="research-paper-title">
           <a href="https://openreview.net/forum?id=xEsJW4xqQC">FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space</a>
-          <span class="research-paper-note">(Spotlight, Oral)</span>
+          <span class="research-paper-note">(Oral)</span>
         </span>
       </li>
       <li>
