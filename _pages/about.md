@@ -32,7 +32,7 @@ Information about PhD student recruitment can be found on pages in [Chinese Vers
 Recently, I have been working on **data-centric AI and geometric learning for AI (DIGAI)**, including the following topics:
 
 - **LLM and Agent.** LLMs(Pretraining, CPT), PEFT, RAG, agents, reasoning, memory, multimodal learning, and non-Euclidean foundation models.
-- **Information Retrieval and Personalization.** Recommender systems, personalization, knowledge graphs, data mining, and network sciences.
+- **Information Retrieval, Recommender Systems, and Personalization.** Recommender systems, personalization, knowledge graphs, data mining, and network sciences.
 - **Hyperbolic and Riemannian Geometric Representation Learning.** Hyperbolic representation learning, differential geometry, hierarchical modeling, and AI for science.
 {: .research-summary-list}
 
@@ -62,7 +62,7 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
   </section>
 
   <section class="research-direction">
-    <h3>Information Retrieval and Personalization</h3>
+    <h3>Information Retrieval, Recommender Systems, and Personalization</h3>
     <ol class="research-paper-list">
       <li>
         <span class="research-paper-venue">KDD 2026</span>
