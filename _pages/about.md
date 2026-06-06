@@ -43,19 +43,19 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
       <li>
         <span class="research-paper-venue">ICML 2026</span>
         <span class="research-paper-title">
-          <a href="https://arxiv.org/abs/2605.00529">Tree-RAG: Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation</a>
+          <a href="https://arxiv.org/abs/2605.00529">Tree-RAG: Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation (RAG for LLM)</a>
         </span>
       </li>
       <li>
         <span class="research-paper-venue">ACL 2026</span>
         <span class="research-paper-title">
-          <a href="https://arxiv.org/abs/2604.16839">HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents</a>
+          <a href="https://arxiv.org/abs/2604.16839">HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents (LLM Memeory)</a>
         </span>
       </li>
       <li>
         <span class="research-paper-venue">NeurIPS 2025</span>
         <span class="research-paper-title">
-          <a href="https://arxiv.org/abs/2505.24722">HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts</a>
+          <a href="https://arxiv.org/abs/2505.24722">HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts (LLM Pretraining)</a>
         </span>
       </li>
     </ol>
@@ -112,7 +112,7 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
   </section>
 </div>
 
-Update: 2026-05-21
+Update: 2026-06-06
 
 {: .warning }
 > 🔥 I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
