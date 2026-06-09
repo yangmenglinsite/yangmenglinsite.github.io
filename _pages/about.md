@@ -112,12 +112,13 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
   </section>
 </div>
 
-Update: 2026-06-06
+Update: 2026-06-09
 
-{: .warning }
-> 🔥 I am looking for self-motivated (visiting) Ph.D. students / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email:
-`menglinyang[at]hkust-gz.edu.cn` 
-Wechat(微信)：mlyang2026
+<p class="redbird-highlight">🔥 对以上方向感兴趣的同学以及已经录取为2026年红鸟硕士的同学，欢迎与我联系，开展相关研究（WeChat: mlyang2026 or email： `menglinyang[at]hkust-gz.edu.cn`. 
+<br>
+<br>
+ I am also looking for self-motivated (visiting) Ph.D. students for 2027 Spring / (remote) research assistants to work with me on the above topics. GPUs and Salaries are provided to qualified candidates. Any interested applicants can directly send me your CV and a brief introduction to your research interest to my email.）</p>
+
 
 
 {: .info }
