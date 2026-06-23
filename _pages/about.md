@@ -74,6 +74,7 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
         <span class="research-paper-venue">KDD 2026</span>
         <span class="research-paper-title">
           <a href="https://arxiv.org/abs/2411.13865">HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems</a>
+          <span class="research-paper-note">(Oral)</span>
         </span>
       </li>
       <li>
