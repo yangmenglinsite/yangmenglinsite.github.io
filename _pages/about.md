@@ -13,7 +13,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: false # hides the news section on the homepage
 selected_papers: false # temporarily hide selected publications; keep the section available for future use
 social: true # includes social icons at the bottom of the page
 ---
