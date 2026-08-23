@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 ## About
 
-**Background**. I am currently an assistant professor in the Thrust of Artificial Intelligence at [Hong Kong University of Science and Technology (Guangzhou), HKUSTGZ](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YANG-Menglin/menglinyang). 
+**Background**. I am currently an Assistant Professor and Principal Investigator (PI) of DIGAI Lab in the Thrust of Artificial Intelligence at [Hong Kong University of Science and Technology (Guangzhou), HKUSTGZ](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YANG-Menglin/menglinyang).<br>
 I am also affiliated with The Hong Kong University of Science and Technology (HKUST). 
 I was a postdoctoral researcher at [Yale University](https://graph-and-geometric-learning.github.io/). Before that, I obtained my Ph.D. from [The Chinese University of Hong Kong](https://misc-lab.cse.cuhk.edu.hk/).
 
@@ -114,10 +114,10 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
 
 Update: 2026-08-23
 
-<p class="redbird-highlight">🔥 对以上方向感兴趣的本科生，已录取为RBM/Msc的同学或者打算申请博士的同学，欢迎联系，讨论以上方向的相关研究（WeChat: mlyang2026 or email：menglinyang[at]hkust-gz.edu.cn. 
+<p class="redbird-highlight">🔥 对以上方向感兴趣的本科生，已录取为RBM/Msc的同学或者打算申请博士的同学，欢迎联系，讨论以上方向的相关研究。预计在2027至2028年招收4-5名博士生（WeChat: mlyang2026 or email：menglinyang[at]hkust-gz.edu.cn）。
 <br>
 <br>
-Undergraduate, RBM/MSc students, or those planning to apply for a PhD are welcome to reach out to discuss related research opportunities (Email: menglinyang[at]hkust-gz.edu.cn).
+We expect to recruit 4-5 PhD students between 2027 and 2028. Undergraduate, RBM/MSc students, or those planning to apply for a PhD are welcome to reach out to discuss related research opportunities (Email: menglinyang[at]hkust-gz.edu.cn).
 <br>
  </p>
 
