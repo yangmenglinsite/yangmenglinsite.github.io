@@ -5,6 +5,7 @@ permalink: /events/
 description: Tutorials, workshops, and more.
 nav: true
 nav_order: 3
+published: false
 ---
 
 <!-- _pages/events.md -->
@@ -70,6 +71,5 @@ This tutorial provides an accessible introduction to hyperbolic graph representa
 <div style="background: #eaf4fb; padding: 0.5em 1em; border-radius: 4px; margin: 1em 0; font-size: 1em;">
 Organized by:  Min Zhou, <strong>Menglin Yang</strong>, Lujia Pan, Irwin King
 </div>
-
 
 

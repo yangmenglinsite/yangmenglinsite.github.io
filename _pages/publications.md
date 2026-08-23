@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<p style="color: #c62828; font-weight: bold;">This page will not be updated in time. Please check the <a href="https://scholar.google.com/citations?user=KroqSRUAAAAJ&hl" style="color: #c62828; text-decoration: underline;">Google Scholar</a> for the full list.</p>
+<p style="color: #c62828; font-weight: bold;">For the complete and most up-to-date publication list, please refer to <a href="https://scholar.google.com/citations?user=KroqSRUAAAAJ&hl" style="color: #c62828; text-decoration: underline;">Google Scholar</a>.</p>
 
 <!-- Bibsearch Feature -->
 

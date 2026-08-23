@@ -112,7 +112,7 @@ Recently, I have been working on **data-centric AI and geometric learning for AI
   </section>
 </div>
 
-Update: 2026-06-25
+Update: 2026-08-23
 
 <p class="redbird-highlight">🔥 对以上方向感兴趣的本科生，已录取为RBM/Msc的同学或者打算申请博士的同学，欢迎联系，讨论以上方向的相关研究（WeChat: mlyang2026 or email：menglinyang[at]hkust-gz.edu.cn. 
 <br>

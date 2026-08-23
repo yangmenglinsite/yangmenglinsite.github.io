@@ -2,7 +2,7 @@
 layout: page
 title: "Recruitment (EN)"
 permalink: /recruitment_en/
-subtitle: Update 2026-02-09
+subtitle: Update 2026-08-23
 nav: false
 nav_order: 2
 ---
@@ -79,7 +79,7 @@ nav_order: 2
 <span style="color: #666;">English</span>
 </div>
 
-# HKUST(GZ) DIGAI Lab Recruitment
+# HKUST(GZ) DIGAI Lab PhD, Master's, Undergraduate, and Research Assistant Recruitment
 
 <div align="center" style="margin: 20px 0;">
 <img src="/assets/img/digai/lab_logo.webp" alt="DIGAI Lab Logo" style="max-width: 600px; height: auto;">
@@ -87,11 +87,13 @@ nav_order: 2
 
 The Data Intelligence and Geometric AI Laboratory (DIGAI Lab) at HKUST(GZ) is actively seeking passionate students to join our cutting-edge AI research team. We offer opportunities for PhD studies and remote visiting research positions. Our research spans **representation learning, LLMs, geometric learning, and information retrieval**, with a focus on advancing geometric AI theory and its applications in network science and scientific discovery. We welcome students from diverse backgrounds and provide extensive research resources and international collaboration opportunities.
 
+Update: 2026-08-23
+
 ---
 
 ## 1. Primary Research Directions
 
-### Direction 1: Large Language Models (Fine-tuning, RAG, Reasoning)
+### Direction 1: Large Language Models (Fine-tuning, RAG, Memory, Reasoning)
 
 This research direction focuses on gaining deep insights into the fundamental mechanisms of large language models while enhancing their reasoning capabilities, representation quality, and multi-modal integration. Our goal is to build more efficient, interpretable, and controllable intelligent systems.
 
@@ -157,7 +159,7 @@ HKUST(GZ) is the first legally independent mainland-Hong Kong cooperative educat
 <img src="/assets/img/digai/bridge.png" alt="HKUST(GZ) Bridge" style="max-width: 600px; height: auto;">
 </div>
 
-HKUST(GZ) awards **master's and doctoral degrees from The Hong Kong University of Science and Technology**. As of September 2024, we have over 300 academic staff, including 240+ tenured faculty. All faculty hold doctoral degrees, 98% have international experience, nearly 20% are national-level talent program recipients, nearly 50% are provincial/ministerial-level talent program selectees, and 15% are ranked among the global top 2% scientists.
+HKUST(GZ) awards **master's and doctoral degrees from The Hong Kong University of Science and Technology**. The University adopts a Hub-and-Thrust structure to advance cross-disciplinary education, research, and knowledge transfer, comprising four Hubs: Function, Information, Systems, and Society. It currently has over 300 substantiation-track faculty members, all of whom hold doctoral degrees.
 
 HKUST and HKUST(GZ) operate under a **"Unified HKUST, Complementary Campuses"** framework, sharing resources including laboratories, libraries, courses, and faculty, integrating the best educational resources from the mainland and Hong Kong.
 
@@ -165,7 +167,7 @@ HKUST and HKUST(GZ) operate under a **"Unified HKUST, Complementary Campuses"** 
 <img src="/assets/img/digai/campus.png" alt="HKUST(GZ) Campus" style="max-width: 600px; height: auto;">
 </div>
 
-Since establishment, the university has been approved for 3 Guangdong Provincial Key Laboratories and 11 Guangzhou Municipal Key Laboratories, securing over 300 government-funded research projects including 66 national-level projects and participation in 18 national key and major projects. The university has signed cooperation agreements with over 90 leading enterprises and research institutions, including Alibaba Cloud, GTA Semiconductor, and Shenzhen Bay Laboratory, and established joint laboratories with nearly 10 industry leaders.
+As of December 2025, the University's Research Department had supported 2,069 research project applications, with 827 projects awarded. HKUST(GZ) currently operates 16 provincial- and municipal-level research platforms, 29 institutes and theme-based laboratories, and 15 central research facilities that support cross-disciplinary research.
 
 <div align="center" style="margin: 40px 0;">
 <img src="/assets/img/digai/hkustgz.webp" alt="HKUST(GZ) Logo" style="max-width: 600px; height: auto;">
@@ -175,7 +177,7 @@ Since establishment, the university has been approved for 3 Guangdong Provincial
 
 ## 3. Team Introduction
 
-DIGAI Lab is led by [Dr. Menglin Yang](https://yangmenglinsite.github.io/), who holds a Ph.D. from The Chinese University of Hong Kong and conducted postdoctoral research at Yale University. He currently serves as an Assistant Professor and PhD supervisor in the AI Thrust at HKUST(GZ). Our team has extensive experience in machine learning, geometric AI, and scientific computing, maintaining close collaborations with top universities and research institutions worldwide.
+DIGAI Lab is led by [Dr. Menglin Yang](https://yangmenglinsite.github.io/), who holds a Ph.D. from The Chinese University of Hong Kong and conducted postdoctoral research at Yale University. He currently serves as an Assistant Professor and PhD supervisor in the AI Thrust at HKUST(GZ). Our team has extensive experience in LLM memory and reasoning, recommender systems, and hyperbolic geometric machine learning, maintaining close collaborations with top universities and research institutions worldwide.
 
 Our group is a **vibrant and supportive academic family** that emphasizes integrity and fairness, providing excellent office environments and computational resources. By joining us, you will benefit from:
 
@@ -191,11 +193,11 @@ Our group is a **vibrant and supportive academic family** that emphasizes integr
 **We welcome applicants with:**
 
 - Strong interest in large models, recommendation systems, network science, AI4SCI, and related fields
-- Undergraduate or graduate backgrounds in computer science, mathematics, physics, bioinformatics, network science, etc.
+- Undergraduate or master's students with backgrounds in computer science, mathematics, physics, bioinformatics, network science, and related fields
 - Strong English communication skills (IELTS 6.5 or TOEFL 80 required for admission)
 - Solid programming skills in relevant languages
 
-**PhD Students:** Entry available in February or August 2026. Program duration is 3 years (with relevant research master's degree) or 4 years (without). Tuition is 40,000 RMB/year, with **full scholarships provided to all admitted students (~15,000 RMB/month)**.
+**PhD Students:** Entry available in February or August 2027. Program duration is 3 years (with relevant research master's degree) or 4 years (without). Tuition fees are subject to the latest requirements published on the [university's official website](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees), with **full scholarships provided to all admitted students (~15,000 RMB/month)**.
 
 **Research Assistants (RAs) & Interns:** We recruit multiple RAs and interns with competitive compensation based on experience and project involvement. Remote interns receive computational resources and comprehensive guidance, with opportunities to publish high-level papers. Outstanding performers receive priority consideration for doctoral admission.
 
