@@ -20,12 +20,11 @@ social: true # includes social icons at the bottom of the page
 
 ## About
 
-**Background**. I am currently an Assistant Professor and Principal Investigator (PI) of DIGAI Lab in the Thrust of Artificial Intelligence at [Hong Kong University of Science and Technology (Guangzhou), HKUST(GZ)](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YANG-Menglin/menglinyang). I am a recipient of the National-level Young Scholars Program.  
- I am also affiliated with The Hong Kong University of Science and Technology (HKUST). Before that,  I was a postdoctoral researcher at [Yale University](https://graph-and-geometric-learning.github.io/) and obtained my Ph.D. from [The Chinese University of Hong Kong](https://misc-lab.cse.cuhk.edu.hk/).
+**Background**. I am currently an Assistant Professor and Principal Investigator (PI) of DIGAI Lab in the Thrust of Artificial Intelligence at [Hong Kong University of Science and Technology (Guangzhou), HKUST(GZ)](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YANG-Menglin/menglinyang). I am also affiliated with The Hong Kong University of Science and Technology (HKUST). Before that,  I was a postdoctoral researcher at [Yale University](https://graph-and-geometric-learning.github.io/) and obtained my Ph.D. from [The Chinese University of Hong Kong](https://misc-lab.cse.cuhk.edu.hk/).  I am fortunate to have been selected as a recipient of the National-Level Young Scholars Program. 
 
 Information about PhD student recruitment can be found on pages in [Chinese Version](./recruitment/), or [English Version](./recruitment_en/).
 
-Recently, I have been working on **data-centric AI and geometric learning for AI (DIGAI)**, including the following topics:
+Recently, we have been working on **data-centric AI and geometric learning for AI (DIGAI)**, including the following topics:
 
 - **LLM and Agent.** LLMs(Pretraining, CPT), PEFT, RAG, agents, reasoning, memory, multimodal learning, and non-Euclidean foundation models.
 - **Information Retrieval, Recommender Systems, and Personalization.** Recommender systems, personalization, knowledge graphs, data mining, and network sciences.
